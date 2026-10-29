@@ -1,0 +1,1201 @@
+record_id,route_name,road_type,distance_km,free_flow_time_min,travel_time_min,traffic_volume_veh_hr,average_speed_kmh,weather_condition,day_of_week,is_peak_hour,congestion_level,incidents_reported
+TRF-1001,Central Business Loop,Downtown Local,8.1,13.89,14.79,422,32.86,Clear,Tuesday,No,Low,0
+TRF-1002,West End Arterial,Arterial Road,16.3,16.3,29.77,1906,32.85,Clear,Monday,Yes,High,0
+TRF-1003,Tech Park Bypass,Highway/Expressway,17.46,13.1,29.22,3355,35.85,Clear,Wednesday,Yes,Severe,0
+TRF-1004,Tech Park Bypass,Highway/Expressway,18.05,13.54,30.8,3480,35.16,Clear,Monday,Yes,Severe,0
+TRF-1005,Central Business Loop,Downtown Local,8.38,14.37,25.83,1136,19.47,Clear,Wednesday,Yes,High,0
+TRF-1006,Metro Ring Expressway,Highway/Expressway,31.19,18.71,22.15,1571,84.49,Clear,Friday,No,Moderate,0
+TRF-1007,West End Arterial,Arterial Road,15.82,15.82,18.66,1074,50.87,Clear,Thursday,No,Low,0
+TRF-1008,Tech Park Bypass,Highway/Expressway,17.49,13.12,28.65,3323,36.63,Clear,Tuesday,Yes,Severe,0
+TRF-1009,Central Business Loop,Downtown Local,8.16,13.99,14.71,550,33.28,Clear,Friday,No,Low,0
+TRF-1010,Downtown Corridor (North-South),Arterial Road,12.25,14.7,43.01,1975,17.09,Heavy Rain,Monday,Yes,Severe,0
+TRF-1011,West End Arterial,Arterial Road,15.55,15.55,29.54,1879,31.58,Clear,Sunday,Yes,Severe,0
+TRF-1012,Harbor Ring Road,Collector Road,9.87,13.16,17.17,462,34.49,Foggy,Tuesday,No,Moderate,0
+TRF-1013,Central Business Loop,Downtown Local,8.59,14.73,22.49,989,22.92,Clear,Monday,Yes,High,0
+TRF-1014,Metro Ring Expressway,Highway/Expressway,30.31,18.19,21.58,1791,84.27,Clear,Saturday,No,Moderate,0
+TRF-1015,Downtown Corridor (North-South),Arterial Road,11.91,14.29,21.44,1059,33.33,Rainy,Tuesday,No,High,0
+TRF-1016,Tech Park Bypass,Highway/Expressway,18.66,14,18.01,1092,62.17,Rainy,Saturday,No,Moderate,0
+TRF-1017,Downtown Corridor (North-South),Arterial Road,12.29,14.75,26.22,1789,28.12,Clear,Tuesday,Yes,High,0
+TRF-1018,Harbor Ring Road,Collector Road,9.68,12.91,27.78,498,20.91,Clear,Tuesday,No,Severe,1
+TRF-1019,Harbor Ring Road,Collector Road,10.07,13.43,41.33,558,14.62,Clear,Wednesday,No,Severe,2
+TRF-1020,Harbor Ring Road,Collector Road,10.19,13.59,14.55,434,42.02,Clear,Friday,No,Low,0
+TRF-1021,Airport Expressway,Highway/Expressway,27.49,18.33,37.91,3231,43.51,Clear,Saturday,Yes,Severe,0
+TRF-1022,West End Arterial,Arterial Road,16.37,16.37,18.75,811,52.38,Clear,Tuesday,No,Low,0
+TRF-1023,Downtown Corridor (North-South),Arterial Road,12.78,15.34,16.71,829,45.89,Clear,Tuesday,No,Low,0
+TRF-1024,Metro Ring Expressway,Highway/Expressway,32.43,19.46,36.87,3037,52.77,Clear,Thursday,Yes,Severe,0
+TRF-1025,University Avenue,Downtown Local,6.67,10.01,12.14,552,32.97,Clear,Thursday,No,Moderate,0
+TRF-1026,Airport Expressway,Highway/Expressway,25.77,17.18,31.37,1304,49.29,Foggy,Wednesday,No,High,1
+TRF-1027,Central Business Loop,Downtown Local,8.43,14.45,22.75,994,22.23,Clear,Wednesday,Yes,High,0
+TRF-1028,Tech Park Bypass,Highway/Expressway,17.48,13.11,13.9,1130,75.45,Clear,Tuesday,No,Low,0
+TRF-1029,Harbor Ring Road,Collector Road,10.18,13.57,13.68,368,44.65,Clear,Friday,No,Low,0
+TRF-1030,Harbor Ring Road,Collector Road,9.41,12.55,15.8,412,35.73,Rainy,Tuesday,No,Moderate,0
+TRF-1031,Downtown Corridor (North-South),Arterial Road,12.76,15.31,27.59,1875,27.75,Clear,Monday,Yes,High,0
+TRF-1032,Central Business Loop,Downtown Local,8.5,14.57,27.18,1153,18.76,Clear,Wednesday,Yes,Severe,0
+TRF-1033,Harbor Ring Road,Collector Road,9.81,13.08,14.88,550,39.56,Clear,Tuesday,No,Low,0
+TRF-1034,Central Business Loop,Downtown Local,8.06,13.82,15.25,478,31.71,Clear,Wednesday,No,Low,0
+TRF-1035,Downtown Corridor (North-South),Arterial Road,11.94,14.33,21.35,1045,33.56,Rainy,Tuesday,No,High,0
+TRF-1036,Airport Expressway,Highway/Expressway,26.3,17.53,17.79,1238,88.7,Clear,Sunday,No,Low,0
+TRF-1037,Tech Park Bypass,Highway/Expressway,17.39,13.04,29.18,3497,35.76,Clear,Wednesday,Yes,Severe,0
+TRF-1038,Downtown Corridor (North-South),Arterial Road,11.81,14.17,24.69,1853,28.7,Clear,Thursday,Yes,High,0
+TRF-1039,Downtown Corridor (North-South),Arterial Road,12.85,15.42,18.41,1026,41.88,Clear,Thursday,No,Moderate,0
+TRF-1040,Metro Ring Expressway,Highway/Expressway,30.85,18.51,23.59,1150,78.47,Rainy,Wednesday,No,Moderate,0
+TRF-1041,West End Arterial,Arterial Road,16.2,16.2,17.61,813,55.2,Clear,Saturday,No,Low,0
+TRF-1042,Airport Expressway,Highway/Expressway,26.77,17.85,39.83,3486,40.33,Clear,Thursday,Yes,Severe,0
+TRF-1043,Downtown Corridor (North-South),Arterial Road,12.26,14.71,16.2,738,45.41,Clear,Saturday,No,Low,0
+TRF-1044,West End Arterial,Arterial Road,14.88,14.88,16.59,892,53.82,Clear,Monday,No,Low,0
+TRF-1045,Airport Expressway,Highway/Expressway,26.85,17.9,46.5,3475,34.65,Foggy,Sunday,Yes,Severe,0
+TRF-1046,Downtown Corridor (North-South),Arterial Road,12.61,15.13,29.82,1974,25.37,Clear,Monday,Yes,Severe,0
+TRF-1047,Airport Expressway,Highway/Expressway,27.66,18.44,24.27,1162,68.38,Rainy,Monday,No,Moderate,0
+TRF-1048,Airport Expressway,Highway/Expressway,26.24,17.49,38.44,1160,40.96,Rainy,Thursday,No,Severe,1
+TRF-1049,West End Arterial,Arterial Road,15.02,15.02,16.04,793,56.18,Clear,Thursday,No,Low,0
+TRF-1050,University Avenue,Downtown Local,6.43,9.64,10.54,456,36.6,Clear,Tuesday,No,Low,0
+TRF-1051,West End Arterial,Arterial Road,16.09,16.09,18.54,873,52.07,Clear,Thursday,No,Low,0
+TRF-1052,Downtown Corridor (North-South),Arterial Road,12.09,14.51,16.59,1071,43.73,Clear,Sunday,No,Low,0
+TRF-1053,University Avenue,Downtown Local,6.81,10.21,12.27,596,33.3,Clear,Tuesday,No,Moderate,0
+TRF-1054,University Avenue,Downtown Local,6.48,9.72,15.3,994,25.41,Clear,Wednesday,Yes,High,0
+TRF-1055,Tech Park Bypass,Highway/Expressway,18.72,14.04,16.79,1379,66.9,Foggy,Monday,No,Moderate,0
+TRF-1056,Airport Expressway,Highway/Expressway,27.5,18.33,22.6,1699,73.01,Clear,Sunday,No,Moderate,0
+TRF-1057,Airport Expressway,Highway/Expressway,27.47,18.31,45.81,3038,35.98,Clear,Saturday,Yes,Severe,1
+TRF-1058,Downtown Corridor (North-South),Arterial Road,12.64,15.17,32.31,2079,23.47,Clear,Wednesday,Yes,Severe,0
+TRF-1059,Metro Ring Expressway,Highway/Expressway,30.56,18.34,20.34,1142,90.15,Clear,Sunday,No,Low,0
+TRF-1060,Downtown Corridor (North-South),Arterial Road,12.15,14.58,37.16,1767,19.62,Heavy Rain,Thursday,Yes,Severe,0
+TRF-1061,Tech Park Bypass,Highway/Expressway,18.3,13.73,38.82,3469,28.28,Clear,Thursday,Yes,Severe,1
+TRF-1062,University Avenue,Downtown Local,6.72,10.08,19.46,964,20.72,Rainy,Tuesday,Yes,Severe,0
+TRF-1063,Central Business Loop,Downtown Local,8.59,14.73,24.46,1043,21.07,Clear,Thursday,Yes,High,0
+TRF-1064,Central Business Loop,Downtown Local,8.04,13.78,31.15,1084,15.49,Rainy,Tuesday,Yes,Severe,0
+TRF-1065,Tech Park Bypass,Highway/Expressway,18.39,13.79,31.47,3181,35.06,Foggy,Thursday,Yes,Severe,0
+TRF-1066,Airport Expressway,Highway/Expressway,26.24,17.49,23.2,1311,67.86,Rainy,Saturday,No,Moderate,0
+TRF-1067,University Avenue,Downtown Local,6.52,9.78,25.26,499,15.49,Clear,Friday,No,Severe,1
+TRF-1068,Tech Park Bypass,Highway/Expressway,17.96,13.47,35.6,2983,30.27,Heavy Rain,Friday,Yes,Severe,0
+TRF-1069,University Avenue,Downtown Local,6.49,9.73,10.62,471,36.67,Clear,Thursday,No,Low,0
+TRF-1070,Airport Expressway,Highway/Expressway,25.54,17.03,39.63,3496,38.67,Clear,Tuesday,Yes,Severe,0
+TRF-1071,Downtown Corridor (North-South),Arterial Road,11.85,14.22,14.7,832,48.37,Clear,Thursday,No,Low,0
+TRF-1072,West End Arterial,Arterial Road,15.53,15.53,29,1893,32.13,Clear,Monday,Yes,Severe,0
+TRF-1073,Airport Expressway,Highway/Expressway,26.62,17.75,22.2,1478,71.95,Foggy,Tuesday,No,Moderate,0
+TRF-1074,Central Business Loop,Downtown Local,8.27,14.18,15.62,500,31.77,Clear,Saturday,No,Low,0
+TRF-1075,West End Arterial,Arterial Road,15.94,15.94,25.94,793,36.87,Heavy Rain,Sunday,No,High,0
+TRF-1076,Central Business Loop,Downtown Local,7.99,13.7,15.97,595,30.02,Clear,Sunday,No,Low,0
+TRF-1077,Tech Park Bypass,Highway/Expressway,17.86,13.39,13.27,1132,80.75,Clear,Saturday,No,Low,0
+TRF-1078,West End Arterial,Arterial Road,15.78,15.78,31.62,2017,29.94,Clear,Wednesday,Yes,Severe,0
+TRF-1079,Metro Ring Expressway,Highway/Expressway,32.42,19.45,45.65,3253,42.61,Foggy,Friday,Yes,Severe,0
+TRF-1080,Metro Ring Expressway,Highway/Expressway,31.67,19,19.24,1217,98.76,Clear,Saturday,No,Low,0
+TRF-1081,Metro Ring Expressway,Highway/Expressway,31.42,18.85,67.25,3367,28.03,Clear,Thursday,Yes,Severe,2
+TRF-1082,Harbor Ring Road,Collector Road,9.93,13.24,13.81,536,43.14,Clear,Monday,No,Low,0
+TRF-1083,West End Arterial,Arterial Road,15.51,15.51,32.8,2058,28.37,Clear,Monday,Yes,Severe,0
+TRF-1084,Central Business Loop,Downtown Local,8.15,13.97,16.06,513,30.45,Clear,Wednesday,No,Low,0
+TRF-1085,Downtown Corridor (North-South),Arterial Road,12.28,14.74,29.75,744,24.77,Clear,Wednesday,No,Severe,2
+TRF-1086,West End Arterial,Arterial Road,15.83,15.83,22.26,839,42.67,Rainy,Sunday,No,Moderate,0
+TRF-1087,University Avenue,Downtown Local,6.53,9.79,24.41,522,16.05,Rainy,Wednesday,No,Severe,1
+TRF-1088,Airport Expressway,Highway/Expressway,25.61,17.07,22.9,1715,67.1,Foggy,Saturday,No,Moderate,0
+TRF-1089,Metro Ring Expressway,Highway/Expressway,32.48,19.49,28,1635,69.6,Rainy,Saturday,No,Moderate,0
+TRF-1090,Airport Expressway,Highway/Expressway,26.12,17.41,22.66,1277,69.16,Foggy,Wednesday,No,Moderate,0
+TRF-1091,Downtown Corridor (North-South),Arterial Road,12.6,15.12,18.39,1048,41.11,Clear,Tuesday,No,Moderate,0
+TRF-1092,West End Arterial,Arterial Road,15.51,15.51,17.18,929,54.17,Clear,Sunday,No,Low,0
+TRF-1093,Airport Expressway,Highway/Expressway,27.67,18.45,33.36,1393,49.77,Clear,Sunday,No,High,1
+TRF-1094,University Avenue,Downtown Local,6.18,9.27,25.7,1152,14.43,Clear,Monday,Yes,Severe,1
+TRF-1095,Central Business Loop,Downtown Local,8.13,13.94,26.34,390,18.52,Clear,Sunday,No,Severe,1
+TRF-1096,Metro Ring Expressway,Highway/Expressway,30.88,18.53,25.8,1306,71.81,Rainy,Saturday,No,Moderate,0
+TRF-1097,Tech Park Bypass,Highway/Expressway,18.07,13.55,19.59,1482,55.34,Rainy,Thursday,No,Moderate,0
+TRF-1098,Harbor Ring Road,Collector Road,9.59,12.79,14.13,484,40.72,Clear,Saturday,No,Low,0
+TRF-1099,Airport Expressway,Highway/Expressway,25.49,16.99,17.61,1355,86.85,Clear,Wednesday,No,Low,0
+TRF-1100,West End Arterial,Arterial Road,15.36,15.36,32.39,2054,28.45,Clear,Friday,Yes,Severe,0
+TRF-1101,University Avenue,Downtown Local,6.69,10.04,16.57,1054,24.22,Clear,Sunday,Yes,High,0
+TRF-1102,Metro Ring Expressway,Highway/Expressway,31.04,18.62,34.26,1698,54.36,Rainy,Thursday,No,High,1
+TRF-1103,Metro Ring Expressway,Highway/Expressway,30.53,18.32,40.99,3404,44.69,Clear,Wednesday,Yes,Severe,0
+TRF-1104,Downtown Corridor (North-South),Arterial Road,11.85,14.22,34.93,1973,20.35,Rainy,Sunday,Yes,Severe,0
+TRF-1105,Tech Park Bypass,Highway/Expressway,19.01,14.26,31.65,2917,36.04,Rainy,Tuesday,Yes,Severe,0
+TRF-1106,Downtown Corridor (North-South),Arterial Road,11.91,14.29,32.15,1886,22.23,Rainy,Wednesday,Yes,Severe,0
+TRF-1107,Metro Ring Expressway,Highway/Expressway,30.13,18.08,25.52,1372,70.84,Rainy,Sunday,No,Moderate,0
+TRF-1108,Metro Ring Expressway,Highway/Expressway,32.32,19.39,35.82,3003,54.14,Clear,Monday,Yes,High,0
+TRF-1109,Downtown Corridor (North-South),Arterial Road,12.17,14.6,20.26,1054,36.04,Foggy,Thursday,No,Moderate,0
+TRF-1110,Central Business Loop,Downtown Local,8.19,14.04,35.4,983,13.88,Rainy,Thursday,Yes,Severe,1
+TRF-1111,Harbor Ring Road,Collector Road,9.37,12.49,16.62,571,33.83,Rainy,Thursday,No,Moderate,0
+TRF-1112,Downtown Corridor (North-South),Arterial Road,12.73,15.28,16.31,826,46.83,Clear,Saturday,No,Low,0
+TRF-1113,Downtown Corridor (North-South),Arterial Road,12.78,15.34,29.17,729,26.29,Clear,Wednesday,No,Severe,1
+TRF-1114,Metro Ring Expressway,Highway/Expressway,32.1,19.26,20.68,1204,93.13,Clear,Tuesday,No,Low,0
+TRF-1115,Metro Ring Expressway,Highway/Expressway,31.78,19.07,35.89,2976,53.13,Clear,Sunday,Yes,Severe,0
+TRF-1116,Metro Ring Expressway,Highway/Expressway,31.21,18.73,33.81,2968,55.39,Clear,Sunday,Yes,High,0
+TRF-1117,Airport Expressway,Highway/Expressway,27.38,18.25,35.43,3160,46.37,Clear,Friday,Yes,Severe,0
+TRF-1118,Downtown Corridor (North-South),Arterial Road,12.25,14.7,16.14,858,45.54,Clear,Monday,No,Low,0
+TRF-1119,West End Arterial,Arterial Road,15.86,15.86,33.79,1909,28.16,Foggy,Thursday,Yes,Severe,0
+TRF-1120,West End Arterial,Arterial Road,14.88,14.88,35.8,2065,24.94,Foggy,Tuesday,Yes,Severe,0
+TRF-1121,Airport Expressway,Highway/Expressway,27.01,18.01,21.32,1511,76.01,Clear,Saturday,No,Moderate,0
+TRF-1122,Tech Park Bypass,Highway/Expressway,17.49,13.12,22.77,1751,46.09,Clear,Sunday,No,High,1
+TRF-1123,West End Arterial,Arterial Road,15.85,15.85,24.29,758,39.15,Heavy Rain,Friday,No,High,0
+TRF-1124,Tech Park Bypass,Highway/Expressway,17.62,13.21,14.36,1349,73.62,Clear,Monday,No,Low,0
+TRF-1125,West End Arterial,Arterial Road,16.24,16.24,29.61,1832,32.91,Clear,Friday,Yes,High,0
+TRF-1126,Airport Expressway,Highway/Expressway,26.98,17.99,37.35,2885,43.34,Foggy,Wednesday,Yes,Severe,0
+TRF-1127,Tech Park Bypass,Highway/Expressway,18.58,13.93,15.13,1185,73.68,Clear,Sunday,No,Low,0
+TRF-1128,Airport Expressway,Highway/Expressway,26.01,17.34,46.32,3499,33.69,Foggy,Tuesday,Yes,Severe,0
+TRF-1129,West End Arterial,Arterial Road,15.33,15.33,17.09,992,53.82,Clear,Thursday,No,Low,0
+TRF-1130,Downtown Corridor (North-South),Arterial Road,12.44,14.93,20.02,1096,37.28,Foggy,Sunday,No,Moderate,0
+TRF-1131,University Avenue,Downtown Local,6.76,10.14,13.27,512,30.57,Foggy,Wednesday,No,Moderate,0
+TRF-1132,Central Business Loop,Downtown Local,8.01,13.73,22.66,552,21.21,Heavy Rain,Wednesday,No,High,0
+TRF-1133,Metro Ring Expressway,Highway/Expressway,33.02,19.81,37.84,3035,52.36,Clear,Thursday,Yes,Severe,0
+TRF-1134,Harbor Ring Road,Collector Road,9.64,12.85,14.91,472,38.79,Clear,Friday,No,Low,0
+TRF-1135,Tech Park Bypass,Highway/Expressway,18.63,13.97,34.77,3178,32.15,Rainy,Wednesday,Yes,Severe,0
+TRF-1136,Harbor Ring Road,Collector Road,9.7,12.93,13.82,418,42.11,Clear,Sunday,No,Low,0
+TRF-1137,Harbor Ring Road,Collector Road,10.15,13.53,19.77,556,30.8,Rainy,Monday,No,High,0
+TRF-1138,Downtown Corridor (North-South),Arterial Road,11.84,14.21,27.7,1802,25.65,Foggy,Friday,Yes,Severe,0
+TRF-1139,Downtown Corridor (North-South),Arterial Road,11.91,14.29,38.99,1879,18.33,Heavy Rain,Friday,Yes,Severe,0
+TRF-1140,Tech Park Bypass,Highway/Expressway,18.7,14.02,25.26,2895,44.42,Clear,Tuesday,Yes,High,0
+TRF-1141,West End Arterial,Arterial Road,15.68,15.68,16.88,678,55.73,Clear,Saturday,No,Low,0
+TRF-1142,Harbor Ring Road,Collector Road,9.75,13,15.41,548,37.96,Clear,Saturday,No,Moderate,0
+TRF-1143,West End Arterial,Arterial Road,15.5,15.5,30.31,1919,30.68,Clear,Wednesday,Yes,Severe,0
+TRF-1144,West End Arterial,Arterial Road,15.71,15.71,18.05,926,52.22,Clear,Sunday,No,Low,0
+TRF-1145,West End Arterial,Arterial Road,15.99,15.99,20.26,661,47.35,Rainy,Saturday,No,Moderate,0
+TRF-1146,Metro Ring Expressway,Highway/Expressway,30.47,18.28,20.23,1311,90.37,Clear,Friday,No,Low,0
+TRF-1147,Harbor Ring Road,Collector Road,9.74,12.99,20.57,987,28.41,Clear,Thursday,Yes,High,0
+TRF-1148,Metro Ring Expressway,Highway/Expressway,31.02,18.61,26.22,1291,70.98,Rainy,Sunday,No,Moderate,0
+TRF-1149,Metro Ring Expressway,Highway/Expressway,30.91,18.55,33.04,2931,56.13,Clear,Friday,Yes,High,0
+TRF-1150,West End Arterial,Arterial Road,15.6,15.6,20.82,1079,44.96,Foggy,Sunday,No,Moderate,0
+TRF-1151,Downtown Corridor (North-South),Arterial Road,12.5,15,57.21,2141,13.11,Clear,Friday,Yes,Severe,2
+TRF-1152,Metro Ring Expressway,Highway/Expressway,29.93,17.96,37.33,3225,48.11,Clear,Monday,Yes,Severe,0
+TRF-1153,West End Arterial,Arterial Road,16.11,16.11,27.99,1763,34.53,Clear,Thursday,Yes,High,0
+TRF-1154,Downtown Corridor (North-South),Arterial Road,12.76,15.31,19.77,675,38.73,Rainy,Sunday,No,Moderate,0
+TRF-1155,Central Business Loop,Downtown Local,8.45,14.49,15.68,423,32.33,Clear,Thursday,No,Low,0
+TRF-1156,Downtown Corridor (North-South),Arterial Road,11.85,14.22,16.6,843,42.83,Clear,Wednesday,No,Low,0
+TRF-1157,University Avenue,Downtown Local,6.28,9.42,21.96,374,17.16,Clear,Monday,No,Severe,1
+TRF-1158,Airport Expressway,Highway/Expressway,27.62,18.41,69.97,3372,23.68,Foggy,Thursday,Yes,Severe,2
+TRF-1159,Downtown Corridor (North-South),Arterial Road,12.62,15.14,17.08,762,44.33,Clear,Friday,No,Low,0
+TRF-1160,Tech Park Bypass,Highway/Expressway,17.98,13.48,35.27,3490,30.59,Foggy,Saturday,Yes,Severe,0
+TRF-1161,Metro Ring Expressway,Highway/Expressway,30.72,18.43,19.15,1158,96.25,Clear,Friday,No,Low,0
+TRF-1162,Airport Expressway,Highway/Expressway,25.79,17.19,43.44,3368,35.62,Foggy,Monday,Yes,Severe,0
+TRF-1163,Tech Park Bypass,Highway/Expressway,17.89,13.42,15.31,1600,70.11,Clear,Saturday,No,Low,0
+TRF-1164,University Avenue,Downtown Local,6.3,9.45,15.18,1053,24.9,Clear,Wednesday,Yes,High,0
+TRF-1165,Airport Expressway,Highway/Expressway,25.69,17.13,38.09,3478,40.47,Clear,Thursday,Yes,Severe,0
+TRF-1166,University Avenue,Downtown Local,6.34,9.51,10.43,412,36.47,Clear,Saturday,No,Low,0
+TRF-1167,Tech Park Bypass,Highway/Expressway,17.66,13.25,14.31,1292,74.05,Clear,Wednesday,No,Low,0
+TRF-1168,Tech Park Bypass,Highway/Expressway,18.93,14.2,18.03,1141,63,Rainy,Wednesday,No,Moderate,0
+TRF-1169,University Avenue,Downtown Local,6.47,9.71,17.74,1125,21.88,Clear,Saturday,Yes,High,0
+TRF-1170,Metro Ring Expressway,Highway/Expressway,31.9,19.14,35.32,1799,54.19,Clear,Sunday,No,High,1
+TRF-1171,Downtown Corridor (North-South),Arterial Road,12.19,14.63,20.36,1052,35.92,Foggy,Sunday,No,Moderate,0
+TRF-1172,Tech Park Bypass,Highway/Expressway,17.35,13.01,13.42,1362,77.57,Clear,Wednesday,No,Low,0
+TRF-1173,Harbor Ring Road,Collector Road,9.38,12.51,16.67,401,33.76,Rainy,Saturday,No,Moderate,0
+TRF-1174,Metro Ring Expressway,Highway/Expressway,32.34,19.4,21.33,1603,90.97,Clear,Tuesday,No,Low,0
+TRF-1175,Central Business Loop,Downtown Local,8.2,14.06,15.6,376,31.54,Clear,Tuesday,No,Low,0
+TRF-1176,Tech Park Bypass,Highway/Expressway,18.18,13.63,24.61,2985,44.32,Clear,Tuesday,Yes,High,0
+TRF-1177,University Avenue,Downtown Local,6.36,9.54,13.49,379,28.29,Rainy,Friday,No,Moderate,0
+TRF-1178,Harbor Ring Road,Collector Road,10.1,13.47,24.3,1107,24.94,Clear,Friday,Yes,High,0
+TRF-1179,Central Business Loop,Downtown Local,7.95,13.63,18.14,416,26.3,Rainy,Sunday,No,Moderate,0
+TRF-1180,Harbor Ring Road,Collector Road,9.51,12.68,14.17,428,40.27,Clear,Saturday,No,Low,0
+TRF-1181,University Avenue,Downtown Local,6.38,9.57,11.2,512,34.18,Foggy,Friday,No,Low,0
+TRF-1182,West End Arterial,Arterial Road,15.66,15.66,32.62,2034,28.8,Clear,Sunday,Yes,Severe,0
+TRF-1183,Harbor Ring Road,Collector Road,10.16,13.55,15.99,521,38.12,Clear,Sunday,No,Moderate,0
+TRF-1184,University Avenue,Downtown Local,6.39,9.59,9.3,407,41.23,Clear,Sunday,No,Low,0
+TRF-1185,Airport Expressway,Highway/Expressway,27.72,18.48,22.94,1748,72.5,Clear,Sunday,No,Moderate,0
+TRF-1186,University Avenue,Downtown Local,6.56,9.84,11.33,499,34.74,Clear,Tuesday,No,Low,0
+TRF-1187,Downtown Corridor (North-South),Arterial Road,12.03,14.44,30.71,2038,23.5,Clear,Thursday,Yes,Severe,0
+TRF-1188,Harbor Ring Road,Collector Road,9.74,12.99,26.99,413,21.65,Clear,Tuesday,No,Severe,1
+TRF-1189,West End Arterial,Arterial Road,14.83,14.83,34.39,1856,25.87,Rainy,Thursday,Yes,Severe,0
+TRF-1190,University Avenue,Downtown Local,6.72,10.08,11.41,391,35.34,Clear,Tuesday,No,Low,0
+TRF-1191,University Avenue,Downtown Local,6.68,10.02,14.39,435,27.85,Rainy,Sunday,No,Moderate,0
+TRF-1192,Airport Expressway,Highway/Expressway,27.72,18.48,34.13,3021,48.73,Clear,Monday,Yes,High,0
+TRF-1193,Airport Expressway,Highway/Expressway,25.46,16.97,22.4,1093,68.2,Rainy,Saturday,No,Moderate,0
+TRF-1194,West End Arterial,Arterial Road,15.29,15.29,33.14,1905,27.68,Foggy,Friday,Yes,Severe,0
+TRF-1195,Tech Park Bypass,Highway/Expressway,18.47,13.85,15.77,1757,70.27,Clear,Friday,No,Low,0
+TRF-1196,Downtown Corridor (North-South),Arterial Road,12.07,14.48,28.32,1924,25.57,Clear,Friday,Yes,Severe,0
+TRF-1197,Downtown Corridor (North-South),Arterial Road,12.61,15.13,17.16,837,44.09,Clear,Saturday,No,Low,0
+TRF-1198,Tech Park Bypass,Highway/Expressway,18.65,13.99,44.82,3341,24.97,Foggy,Tuesday,Yes,Severe,1
+TRF-1199,Airport Expressway,Highway/Expressway,25.78,17.19,20.53,1133,75.34,Foggy,Sunday,No,Moderate,0
+TRF-1200,Harbor Ring Road,Collector Road,10.08,13.44,14.46,549,41.83,Clear,Thursday,No,Low,0
+TRF-1201,Tech Park Bypass,Highway/Expressway,18.32,13.74,15.32,1661,71.75,Clear,Monday,No,Low,0
+TRF-1202,Metro Ring Expressway,Highway/Expressway,31.38,18.83,38.11,3226,49.4,Clear,Monday,Yes,Severe,0
+TRF-1203,Tech Park Bypass,Highway/Expressway,18.11,13.58,24.21,1208,44.88,Clear,Thursday,No,High,1
+TRF-1204,Airport Expressway,Highway/Expressway,27.79,18.53,42.02,3480,39.68,Clear,Tuesday,Yes,Severe,0
+TRF-1205,Central Business Loop,Downtown Local,7.87,13.49,19.44,550,24.29,Rainy,Saturday,No,Moderate,0
+TRF-1206,Central Business Loop,Downtown Local,8.27,14.18,24.26,1042,20.45,Clear,Tuesday,Yes,High,0
+TRF-1207,University Avenue,Downtown Local,6.75,10.13,36.76,553,11.02,Clear,Tuesday,No,Severe,2
+TRF-1208,Harbor Ring Road,Collector Road,9.37,12.49,29.16,481,19.28,Foggy,Wednesday,No,Severe,1
+TRF-1209,West End Arterial,Arterial Road,16.32,16.32,22.91,849,42.74,Rainy,Saturday,No,Moderate,0
+TRF-1210,Harbor Ring Road,Collector Road,9.81,13.08,25.4,404,23.17,Rainy,Wednesday,No,Severe,1
+TRF-1211,Central Business Loop,Downtown Local,7.91,13.56,32.07,577,14.8,Clear,Saturday,No,Severe,2
+TRF-1212,University Avenue,Downtown Local,6.19,9.29,14.28,445,26.01,Heavy Rain,Sunday,No,High,0
+TRF-1213,Airport Expressway,Highway/Expressway,27.71,18.47,40.92,3428,40.63,Clear,Wednesday,Yes,Severe,0
+TRF-1214,Airport Expressway,Highway/Expressway,26.77,17.85,51.1,3166,31.43,Heavy Rain,Wednesday,Yes,Severe,0
+TRF-1215,West End Arterial,Arterial Road,16.07,16.07,36.81,1849,26.19,Rainy,Friday,Yes,Severe,0
+TRF-1216,Harbor Ring Road,Collector Road,9.43,12.57,24.82,1161,22.8,Clear,Saturday,Yes,Severe,0
+TRF-1217,Metro Ring Expressway,Highway/Expressway,32.32,19.39,35.18,2957,55.12,Clear,Thursday,Yes,High,0
+TRF-1218,Harbor Ring Road,Collector Road,9.41,12.55,13.58,537,41.58,Clear,Thursday,No,Low,0
+TRF-1219,West End Arterial,Arterial Road,15.4,15.4,32.02,2062,28.86,Clear,Monday,Yes,Severe,0
+TRF-1220,Metro Ring Expressway,Highway/Expressway,30.26,18.16,19.18,1302,94.66,Clear,Saturday,No,Low,0
+TRF-1221,Downtown Corridor (North-South),Arterial Road,12.09,14.51,15.99,752,45.37,Clear,Friday,No,Low,0
+TRF-1222,Metro Ring Expressway,Highway/Expressway,32.81,19.69,22.31,1574,88.24,Clear,Thursday,No,Low,0
+TRF-1223,West End Arterial,Arterial Road,16.16,16.16,47.98,1893,20.21,Foggy,Saturday,Yes,Severe,1
+TRF-1224,Harbor Ring Road,Collector Road,9.86,13.15,14.84,417,39.87,Clear,Saturday,No,Low,0
+TRF-1225,Tech Park Bypass,Highway/Expressway,18.58,13.93,15.28,1692,72.96,Clear,Saturday,No,Low,0
+TRF-1226,Metro Ring Expressway,Highway/Expressway,32.65,19.59,50.06,1373,39.13,Clear,Saturday,No,Severe,2
+TRF-1227,West End Arterial,Arterial Road,15.4,15.4,26.14,1778,35.35,Clear,Thursday,Yes,High,0
+TRF-1228,Airport Expressway,Highway/Expressway,25.58,17.05,19.62,1420,78.23,Clear,Tuesday,No,Low,0
+TRF-1229,Harbor Ring Road,Collector Road,9.61,12.81,12.88,497,44.77,Clear,Sunday,No,Low,0
+TRF-1230,Airport Expressway,Highway/Expressway,27.42,18.28,37.79,3292,43.54,Clear,Monday,Yes,Severe,0
+TRF-1231,University Avenue,Downtown Local,6.29,9.44,10.29,384,36.68,Clear,Friday,No,Low,0
+TRF-1232,Harbor Ring Road,Collector Road,10.2,13.6,26.38,992,23.2,Rainy,Sunday,Yes,Severe,0
+TRF-1233,Harbor Ring Road,Collector Road,9.69,12.92,39.24,440,14.82,Clear,Monday,No,Severe,2
+TRF-1234,Metro Ring Expressway,Highway/Expressway,30.22,18.13,22.73,1086,79.77,Rainy,Sunday,No,Moderate,0
+TRF-1235,Harbor Ring Road,Collector Road,10.24,13.65,25.32,964,24.27,Rainy,Wednesday,Yes,Severe,0
+TRF-1236,Tech Park Bypass,Highway/Expressway,17.93,13.45,19.18,1400,56.09,Rainy,Thursday,No,Moderate,0
+TRF-1237,Metro Ring Expressway,Highway/Expressway,33.04,19.82,55.24,3115,35.89,Heavy Rain,Wednesday,Yes,Severe,0
+TRF-1238,Tech Park Bypass,Highway/Expressway,18.19,13.64,22.83,1534,47.81,Heavy Rain,Sunday,No,High,0
+TRF-1239,Metro Ring Expressway,Highway/Expressway,31.79,19.07,45.2,3234,42.2,Foggy,Thursday,Yes,Severe,0
+TRF-1240,Downtown Corridor (North-South),Arterial Road,12.83,15.4,17.67,871,43.57,Clear,Thursday,No,Low,0
+TRF-1241,Harbor Ring Road,Collector Road,9.43,12.57,22.07,1120,25.64,Clear,Sunday,Yes,High,0
+TRF-1242,Airport Expressway,Highway/Expressway,27.3,18.2,37.71,3286,43.44,Clear,Sunday,Yes,Severe,0
+TRF-1243,Downtown Corridor (North-South),Arterial Road,11.78,14.14,16.71,950,42.3,Clear,Sunday,No,Moderate,0
+TRF-1244,Harbor Ring Road,Collector Road,9.46,12.61,22.49,538,25.24,Clear,Thursday,No,High,1
+TRF-1245,Airport Expressway,Highway/Expressway,26.69,17.79,56.22,3346,28.48,Heavy Rain,Friday,Yes,Severe,0
+TRF-1246,University Avenue,Downtown Local,6.63,9.95,24.28,1170,16.38,Rainy,Thursday,Yes,Severe,0
+TRF-1247,Central Business Loop,Downtown Local,7.93,13.59,45.08,543,10.55,Foggy,Wednesday,No,Severe,2
+TRF-1248,University Avenue,Downtown Local,6.19,9.29,10.06,421,36.92,Clear,Saturday,No,Low,0
+TRF-1249,Airport Expressway,Highway/Expressway,27,18,45.7,1636,35.45,Clear,Thursday,No,Severe,2
+TRF-1250,University Avenue,Downtown Local,6.41,9.62,17.7,1154,21.73,Clear,Thursday,Yes,High,0
+TRF-1251,Tech Park Bypass,Highway/Expressway,18.17,13.63,44.54,3500,24.48,Heavy Rain,Friday,Yes,Severe,0
+TRF-1252,Harbor Ring Road,Collector Road,9.5,12.67,30.08,989,18.95,Heavy Rain,Monday,Yes,Severe,0
+TRF-1253,Downtown Corridor (North-South),Arterial Road,11.84,14.21,26.69,1930,26.62,Clear,Tuesday,Yes,Severe,0
+TRF-1254,Airport Expressway,Highway/Expressway,28.04,18.69,41.33,3376,40.71,Clear,Tuesday,Yes,Severe,0
+TRF-1255,West End Arterial,Arterial Road,14.94,14.94,19.89,825,45.07,Rainy,Saturday,No,Moderate,0
+TRF-1256,Downtown Corridor (North-South),Arterial Road,11.95,14.34,18.58,1017,38.59,Foggy,Thursday,No,Moderate,0
+TRF-1257,Harbor Ring Road,Collector Road,9.93,13.24,15.23,573,39.12,Clear,Thursday,No,Low,0
+TRF-1258,Central Business Loop,Downtown Local,8.27,14.18,22.13,964,22.42,Clear,Monday,Yes,High,0
+TRF-1259,Downtown Corridor (North-South),Arterial Road,12.97,15.56,17.15,822,45.38,Clear,Friday,No,Low,0
+TRF-1260,University Avenue,Downtown Local,6.71,10.07,24.79,508,16.24,Clear,Saturday,No,Severe,1
+TRF-1261,West End Arterial,Arterial Road,15.62,15.62,17.93,979,52.27,Clear,Sunday,No,Low,0
+TRF-1262,West End Arterial,Arterial Road,14.92,14.92,18.84,975,47.52,Foggy,Tuesday,No,Moderate,0
+TRF-1263,Harbor Ring Road,Collector Road,10.04,13.39,28.55,1138,21.1,Foggy,Tuesday,Yes,Severe,0
+TRF-1264,Harbor Ring Road,Collector Road,9.8,13.07,42.32,367,13.89,Rainy,Sunday,No,Severe,2
+TRF-1265,Tech Park Bypass,Highway/Expressway,17.96,13.47,13.89,1425,77.58,Clear,Tuesday,No,Low,0
+TRF-1266,Central Business Loop,Downtown Local,8.03,13.77,25.97,545,18.55,Clear,Monday,No,Severe,1
+TRF-1267,Airport Expressway,Highway/Expressway,27.14,18.09,23.39,1132,69.62,Rainy,Friday,No,Moderate,0
+TRF-1268,Airport Expressway,Highway/Expressway,27.05,18.03,21.61,1699,75.1,Clear,Thursday,No,Moderate,0
+TRF-1269,University Avenue,Downtown Local,6.68,10.02,21.21,1113,18.9,Foggy,Friday,Yes,Severe,0
+TRF-1270,Harbor Ring Road,Collector Road,10.15,13.53,15.98,545,38.11,Clear,Wednesday,No,Moderate,0
+TRF-1271,West End Arterial,Arterial Road,15.56,15.56,18.49,1014,50.49,Clear,Wednesday,No,Moderate,0
+TRF-1272,Tech Park Bypass,Highway/Expressway,17.93,13.45,25.55,2995,42.11,Clear,Monday,Yes,Severe,0
+TRF-1273,Airport Expressway,Highway/Expressway,25.59,17.06,18.84,1230,81.5,Clear,Sunday,No,Low,0
+TRF-1274,Central Business Loop,Downtown Local,8.15,13.97,22.67,1016,21.57,Clear,Friday,Yes,High,0
+TRF-1275,Airport Expressway,Highway/Expressway,27.55,18.37,21.46,1509,77.03,Clear,Sunday,No,Low,0
+TRF-1276,Harbor Ring Road,Collector Road,9.84,13.12,13.65,533,43.25,Clear,Friday,No,Low,0
+TRF-1277,Airport Expressway,Highway/Expressway,27.6,18.4,19.7,1501,84.06,Clear,Friday,No,Low,0
+TRF-1278,Tech Park Bypass,Highway/Expressway,18,13.5,30.46,3073,35.46,Foggy,Wednesday,Yes,Severe,0
+TRF-1279,University Avenue,Downtown Local,6.6,9.9,12.07,514,32.81,Foggy,Saturday,No,Moderate,0
+TRF-1280,Tech Park Bypass,Highway/Expressway,18.94,14.21,26.56,2934,42.79,Clear,Thursday,Yes,Severe,0
+TRF-1281,Metro Ring Expressway,Highway/Expressway,31.56,18.94,21.26,1546,89.07,Clear,Monday,No,Low,0
+TRF-1282,West End Arterial,Arterial Road,15.97,15.97,21.95,794,43.65,Rainy,Sunday,No,Moderate,0
+TRF-1283,West End Arterial,Arterial Road,14.95,14.95,15.93,706,56.31,Clear,Friday,No,Low,0
+TRF-1284,Central Business Loop,Downtown Local,8.2,14.06,27.24,1160,18.06,Clear,Monday,Yes,Severe,0
+TRF-1285,Tech Park Bypass,Highway/Expressway,17.5,13.13,23.49,2905,44.7,Clear,Tuesday,Yes,High,0
+TRF-1286,Metro Ring Expressway,Highway/Expressway,32.04,19.22,27.84,1782,69.05,Rainy,Wednesday,No,Moderate,0
+TRF-1287,University Avenue,Downtown Local,6.61,9.92,24.82,492,15.98,Clear,Saturday,No,Severe,1
+TRF-1288,Downtown Corridor (North-South),Arterial Road,12.23,14.68,28.03,1947,26.18,Clear,Tuesday,Yes,Severe,0
+TRF-1289,Airport Expressway,Highway/Expressway,26.69,17.79,65.15,3293,24.58,Heavy Rain,Thursday,Yes,Severe,1
+TRF-1290,University Avenue,Downtown Local,6.68,10.02,11.34,506,35.34,Clear,Wednesday,No,Low,0
+TRF-1291,West End Arterial,Arterial Road,14.92,14.92,39.25,1879,22.81,Heavy Rain,Monday,Yes,Severe,0
+TRF-1292,Downtown Corridor (North-South),Arterial Road,12.53,15.04,17.31,816,43.43,Clear,Wednesday,No,Low,0
+TRF-1293,Harbor Ring Road,Collector Road,10.26,13.68,14.25,371,43.2,Clear,Sunday,No,Low,0
+TRF-1294,University Avenue,Downtown Local,6.19,9.29,17.84,1122,20.82,Clear,Wednesday,Yes,Severe,0
+TRF-1295,University Avenue,Downtown Local,6.2,9.3,34.39,1121,10.82,Foggy,Tuesday,Yes,Severe,1
+TRF-1296,Harbor Ring Road,Collector Road,10.12,13.49,20.99,392,28.93,Clear,Wednesday,No,High,1
+TRF-1297,Airport Expressway,Highway/Expressway,25.7,17.13,19.54,1426,78.92,Clear,Wednesday,No,Low,0
+TRF-1298,Tech Park Bypass,Highway/Expressway,18.16,13.62,30.73,2889,35.46,Rainy,Friday,Yes,Severe,0
+TRF-1299,Airport Expressway,Highway/Expressway,26.75,17.83,17.98,1125,89.27,Clear,Friday,No,Low,0
+TRF-1300,West End Arterial,Arterial Road,15.74,15.74,24.65,842,38.31,Heavy Rain,Thursday,No,High,0
+TRF-1301,Central Business Loop,Downtown Local,8.46,14.5,16.65,478,30.49,Clear,Saturday,No,Low,0
+TRF-1302,Downtown Corridor (North-South),Arterial Road,11.96,14.35,27.04,1934,26.54,Clear,Friday,Yes,Severe,0
+TRF-1303,West End Arterial,Arterial Road,15.77,15.77,23.2,1090,40.78,Rainy,Friday,No,High,0
+TRF-1304,Metro Ring Expressway,Highway/Expressway,30.31,18.19,20.22,1589,89.94,Clear,Saturday,No,Low,0
+TRF-1305,West End Arterial,Arterial Road,16.19,16.19,29.33,1898,33.12,Clear,Monday,Yes,High,0
+TRF-1306,Harbor Ring Road,Collector Road,9.78,13.04,13.41,480,43.76,Clear,Tuesday,No,Low,0
+TRF-1307,Downtown Corridor (North-South),Arterial Road,12.67,15.2,24.6,1099,30.9,Clear,Sunday,No,High,1
+TRF-1308,Downtown Corridor (North-South),Arterial Road,12.44,14.93,27,1867,27.64,Clear,Thursday,Yes,High,0
+TRF-1309,Harbor Ring Road,Collector Road,9.67,12.89,20.39,993,28.46,Clear,Tuesday,Yes,High,0
+TRF-1310,Harbor Ring Road,Collector Road,9.61,12.81,19.81,442,29.11,Heavy Rain,Monday,No,High,0
+TRF-1311,Downtown Corridor (North-South),Arterial Road,12.24,14.69,45.74,1858,16.06,Foggy,Monday,Yes,Severe,1
+TRF-1312,University Avenue,Downtown Local,6.68,10.02,15.71,1021,25.51,Clear,Monday,Yes,High,0
+TRF-1313,Metro Ring Expressway,Highway/Expressway,30.35,18.21,45.26,3201,40.23,Rainy,Monday,Yes,Severe,0
+TRF-1314,Harbor Ring Road,Collector Road,9.83,13.11,14.85,484,39.72,Clear,Sunday,No,Low,0
+TRF-1315,Metro Ring Expressway,Highway/Expressway,30.52,18.31,25.54,1284,71.7,Rainy,Thursday,No,Moderate,0
+TRF-1316,University Avenue,Downtown Local,6.6,9.9,10.45,567,37.89,Clear,Friday,No,Low,0
+TRF-1317,West End Arterial,Arterial Road,16.14,16.14,35.12,727,27.57,Clear,Tuesday,No,Severe,2
+TRF-1318,Airport Expressway,Highway/Expressway,27.38,18.25,43.52,3260,37.75,Foggy,Wednesday,Yes,Severe,0
+TRF-1319,Metro Ring Expressway,Highway/Expressway,32.3,19.38,40.67,3304,47.65,Clear,Saturday,Yes,Severe,0
+TRF-1320,West End Arterial,Arterial Road,16.32,16.32,52.51,1817,18.65,Clear,Monday,Yes,Severe,2
+TRF-1321,University Avenue,Downtown Local,6.71,10.07,16.98,1003,23.71,Clear,Tuesday,Yes,High,0
+TRF-1322,University Avenue,Downtown Local,6.47,9.71,12.79,405,30.35,Rainy,Tuesday,No,Moderate,0
+TRF-1323,Metro Ring Expressway,Highway/Expressway,31.97,19.18,22.65,1084,84.69,Foggy,Wednesday,No,Moderate,0
+TRF-1324,Airport Expressway,Highway/Expressway,25.58,17.05,33.39,3185,45.97,Clear,Thursday,Yes,Severe,0
+TRF-1325,University Avenue,Downtown Local,6.41,9.62,10.13,593,37.97,Clear,Sunday,No,Low,0
+TRF-1326,Metro Ring Expressway,Highway/Expressway,30.47,18.28,54.62,3370,33.47,Foggy,Tuesday,Yes,Severe,1
+TRF-1327,Airport Expressway,Highway/Expressway,26.69,17.79,21.7,1701,73.8,Clear,Sunday,No,Moderate,0
+TRF-1328,Downtown Corridor (North-South),Arterial Road,12.39,14.87,15.9,862,46.75,Clear,Saturday,No,Low,0
+TRF-1329,West End Arterial,Arterial Road,14.88,14.88,23.51,753,37.98,Heavy Rain,Wednesday,No,High,0
+TRF-1330,West End Arterial,Arterial Road,16.21,16.21,19.27,1094,50.47,Clear,Sunday,No,Moderate,0
+TRF-1331,Central Business Loop,Downtown Local,8.17,14.01,28.97,373,16.92,Clear,Friday,No,Severe,1
+TRF-1332,Tech Park Bypass,Highway/Expressway,18.89,14.17,18.64,1550,60.8,Foggy,Thursday,No,Moderate,0
+TRF-1333,Tech Park Bypass,Highway/Expressway,18.68,14.01,50.52,1404,22.19,Heavy Rain,Thursday,No,Severe,2
+TRF-1334,Harbor Ring Road,Collector Road,10.12,13.49,15.51,543,39.15,Clear,Tuesday,No,Low,0
+TRF-1335,University Avenue,Downtown Local,6.27,9.4,19.32,1062,19.47,Foggy,Wednesday,Yes,Severe,0
+TRF-1336,Central Business Loop,Downtown Local,8.44,14.47,16.04,516,31.57,Clear,Sunday,No,Low,0
+TRF-1337,University Avenue,Downtown Local,6.26,9.39,19.57,424,19.19,Clear,Sunday,No,Severe,1
+TRF-1338,Harbor Ring Road,Collector Road,9.92,13.23,14.79,401,40.24,Clear,Sunday,No,Low,0
+TRF-1339,West End Arterial,Arterial Road,15.14,15.14,16.22,845,56,Clear,Wednesday,No,Low,0
+TRF-1340,Airport Expressway,Highway/Expressway,27.64,18.43,20.32,1105,81.61,Clear,Monday,No,Low,0
+TRF-1341,Downtown Corridor (North-South),Arterial Road,12.66,15.19,31.95,1857,23.77,Foggy,Wednesday,Yes,Severe,0
+TRF-1342,West End Arterial,Arterial Road,15.38,15.38,37.83,924,24.39,Foggy,Friday,No,Severe,2
+TRF-1343,Harbor Ring Road,Collector Road,9.8,13.07,25.28,1004,23.26,Rainy,Friday,Yes,Severe,0
+TRF-1344,Metro Ring Expressway,Highway/Expressway,31.58,18.95,29.31,1360,64.65,Heavy Rain,Monday,No,High,0
+TRF-1345,Harbor Ring Road,Collector Road,9.41,12.55,23.43,1166,24.1,Clear,Wednesday,Yes,Severe,0
+TRF-1346,Downtown Corridor (North-South),Arterial Road,12.9,15.48,27.65,1790,27.99,Clear,Thursday,Yes,High,0
+TRF-1347,Central Business Loop,Downtown Local,8.26,14.16,18.84,480,26.31,Rainy,Tuesday,No,Moderate,0
+TRF-1348,Tech Park Bypass,Highway/Expressway,18.82,14.12,18.38,1512,61.44,Foggy,Sunday,No,Moderate,0
+TRF-1349,Central Business Loop,Downtown Local,8,13.71,15.82,524,30.34,Clear,Tuesday,No,Low,0
+TRF-1350,Harbor Ring Road,Collector Road,10,13.33,13.33,391,45.01,Clear,Friday,No,Low,0
+TRF-1351,West End Arterial,Arterial Road,15.49,15.49,30.82,740,30.16,Foggy,Sunday,No,Severe,1
+TRF-1352,Downtown Corridor (North-South),Arterial Road,12.29,14.75,17.2,764,42.87,Foggy,Saturday,No,Low,0
+TRF-1353,Metro Ring Expressway,Highway/Expressway,32.67,19.6,21.82,1287,89.84,Clear,Tuesday,No,Low,0
+TRF-1354,Metro Ring Expressway,Highway/Expressway,32.21,19.33,62.12,3068,31.11,Clear,Friday,Yes,Severe,2
+TRF-1355,Metro Ring Expressway,Highway/Expressway,31.34,18.8,22.13,1592,84.97,Clear,Tuesday,No,Low,0
+TRF-1356,Harbor Ring Road,Collector Road,9.59,12.79,16.58,389,34.7,Rainy,Thursday,No,Moderate,0
+TRF-1357,Airport Expressway,Highway/Expressway,26.97,17.98,20.69,1501,78.21,Clear,Thursday,No,Low,0
+TRF-1358,University Avenue,Downtown Local,6.36,9.54,9.22,424,41.39,Clear,Thursday,No,Low,0
+TRF-1359,University Avenue,Downtown Local,6.48,9.72,11.24,563,34.59,Clear,Saturday,No,Low,0
+TRF-1360,Airport Expressway,Highway/Expressway,25.55,17.03,52.1,3490,29.42,Foggy,Friday,Yes,Severe,1
+TRF-1361,Central Business Loop,Downtown Local,8.55,14.66,22.77,993,22.53,Clear,Thursday,Yes,High,0
+TRF-1362,Harbor Ring Road,Collector Road,10.23,13.64,15.47,510,39.68,Clear,Saturday,No,Low,0
+TRF-1363,Central Business Loop,Downtown Local,7.81,13.39,17.46,393,26.84,Rainy,Sunday,No,Moderate,0
+TRF-1364,Airport Expressway,Highway/Expressway,26.26,17.51,34.77,1722,45.31,Clear,Saturday,No,Severe,2
+TRF-1365,Harbor Ring Road,Collector Road,9.83,13.11,15.05,501,39.19,Clear,Saturday,No,Low,0
+TRF-1366,Metro Ring Expressway,Highway/Expressway,30.84,18.5,21.62,1764,85.59,Clear,Tuesday,No,Low,0
+TRF-1367,Harbor Ring Road,Collector Road,9.68,12.91,32.09,996,18.1,Clear,Thursday,Yes,Severe,1
+TRF-1368,Tech Park Bypass,Highway/Expressway,18.29,13.72,24.73,2936,44.38,Clear,Saturday,Yes,High,0
+TRF-1369,Harbor Ring Road,Collector Road,10.26,13.68,16.25,471,37.88,Foggy,Sunday,No,Moderate,0
+TRF-1370,Metro Ring Expressway,Highway/Expressway,32.82,19.69,42.97,3403,45.83,Clear,Tuesday,Yes,Severe,0
+TRF-1371,Downtown Corridor (North-South),Arterial Road,11.94,14.33,35.87,1968,19.97,Rainy,Tuesday,Yes,Severe,0
+TRF-1372,Airport Expressway,Highway/Expressway,25.88,17.25,19.34,1728,80.29,Clear,Wednesday,No,Low,0
+TRF-1373,Airport Expressway,Highway/Expressway,27.81,18.54,19.02,1291,87.73,Clear,Thursday,No,Low,0
+TRF-1374,University Avenue,Downtown Local,6.53,9.79,31.68,1160,12.37,Clear,Monday,Yes,Severe,1
+TRF-1375,Airport Expressway,Highway/Expressway,27.71,18.47,40.43,3397,41.12,Clear,Friday,Yes,Severe,0
+TRF-1376,Tech Park Bypass,Highway/Expressway,18.96,14.22,14.36,1188,79.22,Clear,Tuesday,No,Low,0
+TRF-1377,Harbor Ring Road,Collector Road,9.36,12.48,25.22,385,22.27,Clear,Monday,No,Severe,1
+TRF-1378,Tech Park Bypass,Highway/Expressway,17.9,13.42,27.08,3246,39.66,Clear,Saturday,Yes,Severe,0
+TRF-1379,West End Arterial,Arterial Road,14.99,14.99,29.36,1991,30.63,Clear,Wednesday,Yes,Severe,0
+TRF-1380,Harbor Ring Road,Collector Road,9.31,12.41,13.15,442,42.48,Clear,Wednesday,No,Low,0
+TRF-1381,Tech Park Bypass,Highway/Expressway,19.1,14.33,32.7,3492,35.05,Clear,Saturday,Yes,Severe,0
+TRF-1382,Tech Park Bypass,Highway/Expressway,17.52,13.14,23.54,2982,44.66,Clear,Thursday,Yes,High,0
+TRF-1383,West End Arterial,Arterial Road,15.3,15.3,20.12,906,45.63,Foggy,Tuesday,No,Moderate,0
+TRF-1384,Metro Ring Expressway,Highway/Expressway,32.22,19.33,42.51,3434,45.48,Clear,Tuesday,Yes,Severe,0
+TRF-1385,Harbor Ring Road,Collector Road,10.29,13.72,23.7,1104,26.05,Clear,Monday,Yes,High,0
+TRF-1386,Metro Ring Expressway,Highway/Expressway,32.78,19.67,54.46,3416,36.11,Rainy,Thursday,Yes,Severe,0
+TRF-1387,University Avenue,Downtown Local,6.74,10.11,19.08,1094,21.19,Clear,Tuesday,Yes,Severe,0
+TRF-1388,West End Arterial,Arterial Road,14.91,14.91,19.8,884,45.18,Foggy,Thursday,No,Moderate,0
+TRF-1389,Downtown Corridor (North-South),Arterial Road,11.95,14.34,27.58,1971,26,Clear,Monday,Yes,Severe,0
+TRF-1390,Central Business Loop,Downtown Local,8.41,14.42,24.32,1083,20.75,Clear,Tuesday,Yes,High,0
+TRF-1391,Central Business Loop,Downtown Local,8.31,14.25,15.48,591,32.21,Clear,Saturday,No,Low,0
+TRF-1392,University Avenue,Downtown Local,6.39,9.59,9.97,597,38.46,Clear,Friday,No,Low,0
+TRF-1393,Tech Park Bypass,Highway/Expressway,18.59,13.94,15.16,1115,73.58,Clear,Thursday,No,Low,0
+TRF-1394,Metro Ring Expressway,Highway/Expressway,30.11,18.07,34.21,3116,52.81,Clear,Friday,Yes,Severe,0
+TRF-1395,Downtown Corridor (North-South),Arterial Road,12.79,15.35,29.6,1953,25.93,Clear,Wednesday,Yes,Severe,0
+TRF-1396,Metro Ring Expressway,Highway/Expressway,30.17,18.1,19.39,1342,93.36,Clear,Wednesday,No,Low,0
+TRF-1397,Downtown Corridor (North-South),Arterial Road,12.61,15.13,17.71,698,42.72,Foggy,Tuesday,No,Low,0
+TRF-1398,West End Arterial,Arterial Road,16.28,16.28,25.98,846,37.6,Heavy Rain,Friday,No,High,0
+TRF-1399,Downtown Corridor (North-South),Arterial Road,12.01,14.41,16.28,1040,44.26,Clear,Tuesday,No,Low,0
+TRF-1400,Airport Expressway,Highway/Expressway,27.6,18.4,36.54,3148,45.32,Clear,Saturday,Yes,Severe,0
+TRF-1401,University Avenue,Downtown Local,6.19,9.29,12.2,380,30.44,Foggy,Saturday,No,Moderate,0
+TRF-1402,University Avenue,Downtown Local,6.41,9.62,18.91,1146,20.34,Clear,Wednesday,Yes,Severe,0
+TRF-1403,Harbor Ring Road,Collector Road,10.08,13.44,15.77,535,38.35,Clear,Sunday,No,Low,0
+TRF-1404,Downtown Corridor (North-South),Arterial Road,12.27,14.72,17.86,1020,41.22,Clear,Monday,No,Moderate,0
+TRF-1405,West End Arterial,Arterial Road,16.3,16.3,42.13,2051,23.21,Rainy,Tuesday,Yes,Severe,0
+TRF-1406,West End Arterial,Arterial Road,16.3,16.3,32.87,805,29.75,Clear,Friday,No,Severe,2
+TRF-1407,University Avenue,Downtown Local,6.75,10.13,11.73,484,34.53,Clear,Tuesday,No,Low,0
+TRF-1408,Central Business Loop,Downtown Local,8.6,14.74,15.27,524,33.79,Clear,Thursday,No,Low,0
+TRF-1409,Tech Park Bypass,Highway/Expressway,17.42,13.07,26.63,1771,39.25,Clear,Sunday,No,Severe,1
+TRF-1410,West End Arterial,Arterial Road,16.14,16.14,33.13,1987,29.23,Clear,Wednesday,Yes,Severe,0
+TRF-1411,Downtown Corridor (North-South),Arterial Road,12.26,14.71,41.34,938,17.79,Clear,Friday,No,Severe,2
+TRF-1412,Airport Expressway,Highway/Expressway,26.75,17.83,26.04,1540,61.64,Rainy,Saturday,No,High,0
+TRF-1413,Metro Ring Expressway,Highway/Expressway,30.43,18.26,46.99,3218,38.86,Rainy,Monday,Yes,Severe,0
+TRF-1414,Tech Park Bypass,Highway/Expressway,17.44,13.08,32.26,3104,32.44,Rainy,Thursday,Yes,Severe,0
+TRF-1415,Central Business Loop,Downtown Local,8.49,14.55,15.21,519,33.49,Clear,Saturday,No,Low,0
+TRF-1416,Harbor Ring Road,Collector Road,9.56,12.75,20.37,1029,28.16,Clear,Friday,Yes,High,0
+TRF-1417,Downtown Corridor (North-South),Arterial Road,12.68,15.22,16.15,931,47.11,Clear,Sunday,No,Low,0
+TRF-1418,Airport Expressway,Highway/Expressway,26.55,17.7,31.42,1790,50.7,Clear,Friday,No,High,1
+TRF-1419,University Avenue,Downtown Local,6.74,10.11,15.78,406,25.63,Heavy Rain,Tuesday,No,High,0
+TRF-1420,Tech Park Bypass,Highway/Expressway,17.47,13.1,24.08,3050,43.53,Clear,Thursday,Yes,High,0
+TRF-1421,Harbor Ring Road,Collector Road,9.72,12.96,13.77,415,42.35,Clear,Thursday,No,Low,0
+TRF-1422,Central Business Loop,Downtown Local,8.52,14.61,20.71,541,24.68,Rainy,Thursday,No,Moderate,0
+TRF-1423,Airport Expressway,Highway/Expressway,26.53,17.69,35.35,3186,45.03,Clear,Thursday,Yes,Severe,0
+TRF-1424,Central Business Loop,Downtown Local,7.92,13.58,13.85,393,34.31,Clear,Saturday,No,Low,0
+TRF-1425,Downtown Corridor (North-South),Arterial Road,12.72,15.26,20.44,784,37.34,Rainy,Monday,No,Moderate,0
+TRF-1426,Harbor Ring Road,Collector Road,9.31,12.41,23.73,547,23.54,Clear,Friday,No,Severe,1
+TRF-1427,University Avenue,Downtown Local,6.22,9.33,10.71,434,34.85,Clear,Thursday,No,Low,0
+TRF-1428,West End Arterial,Arterial Road,16.22,16.22,37.27,1832,26.11,Rainy,Wednesday,Yes,Severe,0
+TRF-1429,Tech Park Bypass,Highway/Expressway,18.82,14.12,29.91,1348,37.75,Clear,Monday,No,Severe,2
+TRF-1430,Airport Expressway,Highway/Expressway,27.72,18.48,39.04,2957,42.6,Foggy,Tuesday,Yes,Severe,0
+TRF-1431,University Avenue,Downtown Local,6.54,9.81,18.13,1079,21.64,Clear,Wednesday,Yes,High,0
+TRF-1432,Metro Ring Expressway,Highway/Expressway,32.81,19.69,21.85,1648,90.1,Clear,Wednesday,No,Low,0
+TRF-1433,Metro Ring Expressway,Highway/Expressway,30.89,18.53,27.05,1653,68.52,Rainy,Monday,No,High,0
+TRF-1434,Metro Ring Expressway,Highway/Expressway,32.98,19.79,34.53,1485,57.31,Clear,Saturday,No,High,1
+TRF-1435,Central Business Loop,Downtown Local,8.17,14.01,44.09,1140,11.12,Clear,Saturday,Yes,Severe,2
+TRF-1436,University Avenue,Downtown Local,6.46,9.69,12.53,391,30.93,Rainy,Friday,No,Moderate,0
+TRF-1437,Central Business Loop,Downtown Local,8.31,14.25,32.62,1147,15.29,Rainy,Friday,Yes,Severe,0
+TRF-1438,West End Arterial,Arterial Road,15.36,15.36,40.86,2073,22.56,Rainy,Wednesday,Yes,Severe,0
+TRF-1439,Harbor Ring Road,Collector Road,9.67,12.89,20.89,541,27.77,Heavy Rain,Monday,No,High,0
+TRF-1440,West End Arterial,Arterial Road,14.99,14.99,16.96,1094,53.03,Clear,Monday,No,Low,0
+TRF-1441,West End Arterial,Arterial Road,15.97,15.97,24.28,1086,39.46,Rainy,Monday,No,High,0
+TRF-1442,Airport Expressway,Highway/Expressway,27.94,18.63,46.58,3374,35.99,Foggy,Tuesday,Yes,Severe,0
+TRF-1443,University Avenue,Downtown Local,6.39,9.59,20.08,423,19.09,Clear,Wednesday,No,Severe,1
+TRF-1444,Metro Ring Expressway,Highway/Expressway,31.35,18.81,21.03,1618,89.44,Clear,Friday,No,Low,0
+TRF-1445,Downtown Corridor (North-South),Arterial Road,12.85,15.42,18.32,1048,42.09,Clear,Sunday,No,Moderate,0
+TRF-1446,Central Business Loop,Downtown Local,8.6,14.74,27.64,1147,18.67,Clear,Sunday,Yes,Severe,0
+TRF-1447,Central Business Loop,Downtown Local,7.81,13.39,15.18,477,30.87,Clear,Sunday,No,Low,0
+TRF-1448,Downtown Corridor (North-South),Arterial Road,12.48,14.98,26.65,1853,28.1,Clear,Wednesday,Yes,High,0
+TRF-1449,Airport Expressway,Highway/Expressway,26.58,17.72,17.61,1091,90.56,Clear,Sunday,No,Low,0
+TRF-1450,University Avenue,Downtown Local,6.82,10.23,10.5,380,38.97,Clear,Friday,No,Low,0
+TRF-1451,Metro Ring Expressway,Highway/Expressway,31.36,18.82,41.35,1726,45.5,Rainy,Thursday,No,Severe,1
+TRF-1452,Tech Park Bypass,Highway/Expressway,18.28,13.71,16.26,1605,67.45,Clear,Saturday,No,Moderate,0
+TRF-1453,Harbor Ring Road,Collector Road,9.52,12.69,17.05,580,33.5,Rainy,Saturday,No,Moderate,0
+TRF-1454,University Avenue,Downtown Local,6.6,9.9,21.1,1098,18.77,Foggy,Monday,Yes,Severe,0
+TRF-1455,University Avenue,Downtown Local,6.76,10.14,10.22,510,39.69,Clear,Tuesday,No,Low,0
+TRF-1456,Harbor Ring Road,Collector Road,10.15,13.53,23.55,1058,25.86,Clear,Monday,Yes,High,0
+TRF-1457,Tech Park Bypass,Highway/Expressway,18.6,13.95,30.4,1726,36.71,Clear,Saturday,No,Severe,1
+TRF-1458,Airport Expressway,Highway/Expressway,25.9,17.27,18.47,1344,84.14,Clear,Saturday,No,Low,0
+TRF-1459,Metro Ring Expressway,Highway/Expressway,30.89,18.53,44.18,3048,41.95,Rainy,Friday,Yes,Severe,0
+TRF-1460,Airport Expressway,Highway/Expressway,28.07,18.71,21.52,1616,78.26,Clear,Thursday,No,Low,0
+TRF-1461,University Avenue,Downtown Local,6.77,10.15,9.83,457,41.32,Clear,Saturday,No,Low,0
+TRF-1462,Metro Ring Expressway,Highway/Expressway,31.94,19.16,33.29,2901,57.57,Clear,Friday,Yes,High,0
+TRF-1463,Tech Park Bypass,Highway/Expressway,17.56,13.17,23.24,2914,45.34,Clear,Thursday,Yes,High,0
+TRF-1464,Harbor Ring Road,Collector Road,9.72,12.96,27.41,510,21.28,Clear,Friday,No,Severe,2
+TRF-1465,Metro Ring Expressway,Highway/Expressway,32.74,19.64,22.58,1774,87,Clear,Sunday,No,Low,0
+TRF-1466,West End Arterial,Arterial Road,14.92,14.92,28.86,1920,31.02,Clear,Friday,Yes,Severe,0
+TRF-1467,Central Business Loop,Downtown Local,7.93,13.59,32.57,1022,14.61,Heavy Rain,Tuesday,Yes,Severe,0
+TRF-1468,Downtown Corridor (North-South),Arterial Road,12.7,15.24,16.78,946,45.41,Clear,Friday,No,Low,0
+TRF-1469,West End Arterial,Arterial Road,15.93,15.93,37.77,1908,25.31,Rainy,Wednesday,Yes,Severe,0
+TRF-1470,Metro Ring Expressway,Highway/Expressway,30.6,18.36,29.62,1581,61.99,Heavy Rain,Monday,No,High,0
+TRF-1471,Airport Expressway,Highway/Expressway,28.13,18.75,20.08,1215,84.05,Clear,Tuesday,No,Low,0
+TRF-1472,University Avenue,Downtown Local,6.53,9.79,13.59,516,28.83,Rainy,Saturday,No,Moderate,0
+TRF-1473,Harbor Ring Road,Collector Road,10.18,13.57,18.5,481,33.02,Rainy,Thursday,No,Moderate,0
+TRF-1474,Tech Park Bypass,Highway/Expressway,19.09,14.32,15.87,1735,72.17,Clear,Thursday,No,Low,0
+TRF-1475,Airport Expressway,Highway/Expressway,27.88,18.59,48.13,3224,34.76,Rainy,Wednesday,Yes,Severe,0
+TRF-1476,Metro Ring Expressway,Highway/Expressway,31.58,18.95,33.01,2915,57.4,Clear,Sunday,Yes,High,0
+TRF-1477,Downtown Corridor (North-South),Arterial Road,11.85,14.22,18.04,727,39.41,Rainy,Tuesday,No,Moderate,0
+TRF-1478,University Avenue,Downtown Local,6.24,9.36,14.78,1045,25.33,Clear,Tuesday,Yes,High,0
+TRF-1479,Tech Park Bypass,Highway/Expressway,18.12,13.59,35.41,3308,30.7,Rainy,Wednesday,Yes,Severe,0
+TRF-1480,Tech Park Bypass,Highway/Expressway,18.26,13.7,14.09,1256,77.76,Clear,Friday,No,Low,0
+TRF-1481,University Avenue,Downtown Local,6.5,9.75,16.44,1078,23.72,Clear,Sunday,Yes,High,0
+TRF-1482,Downtown Corridor (North-South),Arterial Road,11.81,14.17,26.02,973,27.23,Clear,Wednesday,No,High,1
+TRF-1483,Central Business Loop,Downtown Local,8.36,14.33,20.03,484,25.04,Rainy,Tuesday,No,Moderate,0
+TRF-1484,Metro Ring Expressway,Highway/Expressway,31.9,19.14,21.1,1625,90.71,Clear,Sunday,No,Low,0
+TRF-1485,West End Arterial,Arterial Road,15.4,15.4,17.17,759,53.81,Clear,Friday,No,Low,0
+TRF-1486,Harbor Ring Road,Collector Road,10.12,13.49,15.58,496,38.97,Clear,Sunday,No,Low,0
+TRF-1487,University Avenue,Downtown Local,6.3,9.45,16.69,1065,22.65,Clear,Tuesday,Yes,High,0
+TRF-1488,West End Arterial,Arterial Road,14.94,14.94,29.55,1985,30.34,Clear,Monday,Yes,Severe,0
+TRF-1489,Metro Ring Expressway,Highway/Expressway,30.75,18.45,26.4,1578,69.89,Rainy,Sunday,No,Moderate,0
+TRF-1490,Metro Ring Expressway,Highway/Expressway,30.47,18.28,32.28,2938,56.64,Clear,Monday,Yes,High,0
+TRF-1491,Central Business Loop,Downtown Local,8.58,14.71,18.53,418,27.78,Rainy,Tuesday,No,Moderate,0
+TRF-1492,Central Business Loop,Downtown Local,8.06,13.82,21.59,414,22.4,Clear,Thursday,No,High,1
+TRF-1493,University Avenue,Downtown Local,6.7,10.05,11.94,442,33.67,Foggy,Friday,No,Moderate,0
+TRF-1494,Tech Park Bypass,Highway/Expressway,18.34,13.76,14.95,1379,73.61,Clear,Tuesday,No,Low,0
+TRF-1495,University Avenue,Downtown Local,6.28,9.42,9.38,532,40.17,Clear,Friday,No,Low,0
+TRF-1496,Central Business Loop,Downtown Local,8.16,13.99,34.06,1148,14.37,Rainy,Sunday,Yes,Severe,0
+TRF-1497,Downtown Corridor (North-South),Arterial Road,12.58,15.1,17.12,949,44.09,Clear,Sunday,No,Low,0
+TRF-1498,Tech Park Bypass,Highway/Expressway,17.95,13.46,26.76,1495,40.25,Rainy,Friday,No,Severe,1
+TRF-1499,Tech Park Bypass,Highway/Expressway,17.86,13.39,14.13,1160,75.84,Clear,Sunday,No,Low,0
+TRF-1500,West End Arterial,Arterial Road,15.31,15.31,18,1065,51.03,Clear,Monday,No,Low,0
+TRF-1501,West End Arterial,Arterial Road,15.75,15.75,22.8,1062,41.45,Rainy,Friday,No,Moderate,0
+TRF-1502,Tech Park Bypass,Highway/Expressway,18.47,13.85,19.67,1711,56.34,Foggy,Saturday,No,Moderate,0
+TRF-1503,Harbor Ring Road,Collector Road,9.79,13.05,21,1008,27.97,Clear,Monday,Yes,High,0
+TRF-1504,Downtown Corridor (North-South),Arterial Road,11.89,14.27,27.76,720,25.7,Rainy,Thursday,No,Severe,1
+TRF-1505,University Avenue,Downtown Local,6.38,9.57,14.82,1007,25.83,Clear,Thursday,Yes,High,0
+TRF-1506,University Avenue,Downtown Local,6.71,10.07,14.81,962,27.18,Clear,Friday,Yes,High,0
+TRF-1507,Metro Ring Expressway,Highway/Expressway,30.76,18.46,42.56,1238,43.36,Rainy,Wednesday,No,Severe,2
+TRF-1508,West End Arterial,Arterial Road,15.8,15.8,18,831,52.67,Clear,Tuesday,No,Low,0
+TRF-1509,West End Arterial,Arterial Road,15.45,15.45,16.63,735,55.74,Clear,Monday,No,Low,0
+TRF-1510,West End Arterial,Arterial Road,15.56,15.56,27.62,903,33.8,Clear,Friday,No,High,1
+TRF-1511,Downtown Corridor (North-South),Arterial Road,12.33,14.8,30.21,1994,24.49,Clear,Wednesday,Yes,Severe,0
+TRF-1512,Downtown Corridor (North-South),Arterial Road,12.08,14.5,20.56,1097,35.25,Foggy,Wednesday,No,Moderate,0
+TRF-1513,West End Arterial,Arterial Road,15.49,15.49,16.01,808,58.05,Clear,Sunday,No,Low,0
+TRF-1514,Harbor Ring Road,Collector Road,9.48,12.64,19.42,980,29.29,Clear,Wednesday,Yes,High,0
+TRF-1515,Airport Expressway,Highway/Expressway,25.83,17.22,32.42,3105,47.8,Clear,Friday,Yes,Severe,0
+TRF-1516,Airport Expressway,Highway/Expressway,28.09,18.73,23.13,1763,72.87,Clear,Friday,No,Moderate,0
+TRF-1517,University Avenue,Downtown Local,6.44,9.66,12.07,411,32.01,Rainy,Thursday,No,Moderate,0
+TRF-1518,Tech Park Bypass,Highway/Expressway,19.11,14.33,16.16,1414,70.95,Clear,Sunday,No,Low,0
+TRF-1519,West End Arterial,Arterial Road,15.76,15.76,33.64,1790,28.11,Rainy,Thursday,Yes,Severe,0
+TRF-1520,Airport Expressway,Highway/Expressway,26.81,17.87,20.13,1292,79.91,Clear,Sunday,No,Low,0
+TRF-1521,Tech Park Bypass,Highway/Expressway,17.57,13.18,26.26,1543,40.14,Clear,Tuesday,No,Severe,1
+TRF-1522,Downtown Corridor (North-South),Arterial Road,11.99,14.39,24.67,1810,29.16,Clear,Monday,Yes,High,0
+TRF-1523,Airport Expressway,Highway/Expressway,25.98,17.32,23.09,1302,67.51,Rainy,Thursday,No,Moderate,0
+TRF-1524,Airport Expressway,Highway/Expressway,27.51,18.34,24.46,1728,67.48,Foggy,Saturday,No,Moderate,0
+TRF-1525,Metro Ring Expressway,Highway/Expressway,31.72,19.03,23.96,1797,79.43,Clear,Sunday,No,Moderate,0
+TRF-1526,Tech Park Bypass,Highway/Expressway,17.73,13.3,14.72,1382,72.27,Clear,Friday,No,Low,0
+TRF-1527,Central Business Loop,Downtown Local,8.21,14.07,19.49,484,25.27,Rainy,Wednesday,No,Moderate,0
+TRF-1528,Tech Park Bypass,Highway/Expressway,18.98,14.24,17.12,1513,66.52,Clear,Friday,No,Moderate,0
+TRF-1529,Airport Expressway,Highway/Expressway,26.45,17.63,18.35,1116,86.49,Clear,Monday,No,Low,0
+TRF-1530,University Avenue,Downtown Local,6.24,9.36,13.05,384,28.69,Rainy,Wednesday,No,Moderate,0
+TRF-1531,Central Business Loop,Downtown Local,8.27,14.18,15.03,427,33.01,Clear,Thursday,No,Low,0
+TRF-1532,Harbor Ring Road,Collector Road,10.19,13.59,14.05,488,43.52,Clear,Tuesday,No,Low,0
+TRF-1533,West End Arterial,Arterial Road,16.19,16.19,18.36,1090,52.91,Clear,Monday,No,Low,0
+TRF-1534,West End Arterial,Arterial Road,16.17,16.17,31.2,1902,31.1,Clear,Sunday,Yes,Severe,0
+TRF-1535,Downtown Corridor (North-South),Arterial Road,11.99,14.39,33.28,748,21.62,Clear,Tuesday,No,Severe,2
+TRF-1536,University Avenue,Downtown Local,6.38,9.57,9.0915,409,42.11,Clear,Monday,No,Low,0
+TRF-1537,Airport Expressway,Highway/Expressway,26.58,17.72,31.16,2965,51.18,Clear,Friday,Yes,High,0
+TRF-1538,Harbor Ring Road,Collector Road,9.97,13.29,19.96,971,29.97,Clear,Friday,Yes,High,0
+TRF-1539,Downtown Corridor (North-South),Arterial Road,12.95,15.54,16.55,807,46.95,Clear,Sunday,No,Low,0
+TRF-1540,Harbor Ring Road,Collector Road,9.81,13.08,26.86,1005,21.91,Rainy,Monday,Yes,Severe,0
+TRF-1541,Tech Park Bypass,Highway/Expressway,18.79,14.09,14.41,1246,78.24,Clear,Monday,No,Low,0
+TRF-1542,Central Business Loop,Downtown Local,8.59,14.73,19.94,436,25.85,Rainy,Thursday,No,Moderate,0
+TRF-1543,Harbor Ring Road,Collector Road,10.08,13.44,29.46,1085,20.53,Rainy,Tuesday,Yes,Severe,0
+TRF-1544,Tech Park Bypass,Highway/Expressway,18.4,13.8,19.09,1669,57.83,Rainy,Sunday,No,Moderate,0
+TRF-1545,Downtown Corridor (North-South),Arterial Road,12.71,15.25,29.03,1946,26.27,Clear,Monday,Yes,Severe,0
+TRF-1546,West End Arterial,Arterial Road,15.73,15.73,25.67,924,36.77,Heavy Rain,Thursday,No,High,0
+TRF-1547,Harbor Ring Road,Collector Road,9.66,12.88,19.62,991,29.54,Clear,Friday,Yes,High,0
+TRF-1548,Tech Park Bypass,Highway/Expressway,18.37,13.78,14.74,1202,74.78,Clear,Sunday,No,Low,0
+TRF-1549,West End Arterial,Arterial Road,15.19,15.19,16.84,911,54.12,Clear,Tuesday,No,Low,0
+TRF-1550,Tech Park Bypass,Highway/Expressway,18.02,13.52,27.17,1475,39.79,Clear,Friday,No,Severe,1
+TRF-1551,West End Arterial,Arterial Road,15.02,15.02,22.29,987,40.43,Rainy,Monday,No,High,0
+TRF-1552,Metro Ring Expressway,Highway/Expressway,30.28,18.17,20.06,1557,90.57,Clear,Thursday,No,Low,0
+TRF-1553,Downtown Corridor (North-South),Arterial Road,12.72,15.26,32.66,2058,23.37,Clear,Monday,Yes,Severe,0
+TRF-1554,Metro Ring Expressway,Highway/Expressway,31.23,18.74,26.81,1678,69.89,Rainy,Thursday,No,Moderate,0
+TRF-1555,Airport Expressway,Highway/Expressway,26.49,17.66,18.82,1317,84.45,Clear,Thursday,No,Low,0
+TRF-1556,Tech Park Bypass,Highway/Expressway,17.39,13.04,17.54,1282,59.49,Rainy,Saturday,No,Moderate,0
+TRF-1557,Tech Park Bypass,Highway/Expressway,18.49,13.87,18.82,1555,58.95,Foggy,Saturday,No,Moderate,0
+TRF-1558,Airport Expressway,Highway/Expressway,27.42,18.28,28.23,1451,58.28,Clear,Saturday,No,High,1
+TRF-1559,Downtown Corridor (North-South),Arterial Road,12.44,14.93,29.58,1029,25.23,Clear,Friday,No,Severe,1
+TRF-1560,Tech Park Bypass,Highway/Expressway,18.31,13.73,38.96,3441,28.2,Rainy,Tuesday,Yes,Severe,0
+TRF-1561,Downtown Corridor (North-South),Arterial Road,12.47,14.96,52.46,2051,14.26,Rainy,Thursday,Yes,Severe,1
+TRF-1562,Harbor Ring Road,Collector Road,10.11,13.48,21.47,981,28.25,Clear,Thursday,Yes,High,0
+TRF-1563,Tech Park Bypass,Highway/Expressway,18.68,14.01,18.88,1457,59.36,Foggy,Monday,No,Moderate,0
+TRF-1564,Central Business Loop,Downtown Local,8.33,14.28,44.39,550,11.26,Rainy,Thursday,No,Severe,2
+TRF-1565,West End Arterial,Arterial Road,15.09,15.09,37.42,1099,24.2,Heavy Rain,Sunday,No,Severe,1
+TRF-1566,Central Business Loop,Downtown Local,8.34,14.3,17.63,524,28.38,Foggy,Saturday,No,Moderate,0
+TRF-1567,Harbor Ring Road,Collector Road,10.14,13.52,13.99,493,43.49,Clear,Sunday,No,Low,0
+TRF-1568,West End Arterial,Arterial Road,16.27,16.27,42.54,921,22.95,Rainy,Friday,No,Severe,2
+TRF-1569,Metro Ring Expressway,Highway/Expressway,32.22,19.33,20.67,1458,93.53,Clear,Thursday,No,Low,0
+TRF-1570,Tech Park Bypass,Highway/Expressway,18.29,13.72,32.47,3501,33.8,Clear,Sunday,Yes,Severe,0
+TRF-1571,Airport Expressway,Highway/Expressway,26.85,17.9,31.62,2887,50.95,Clear,Thursday,Yes,High,0
+TRF-1572,Downtown Corridor (North-South),Arterial Road,12.44,14.93,53.67,1853,13.91,Clear,Monday,Yes,Severe,2
+TRF-1573,University Avenue,Downtown Local,6.45,9.68,13.95,463,27.74,Rainy,Saturday,No,Moderate,0
+TRF-1574,Harbor Ring Road,Collector Road,9.84,13.12,41.29,1102,14.3,Foggy,Friday,Yes,Severe,1
+TRF-1575,University Avenue,Downtown Local,6.2,9.3,9.41,405,39.53,Clear,Friday,No,Low,0
+TRF-1576,Tech Park Bypass,Highway/Expressway,18.48,13.86,15.03,1410,73.77,Clear,Thursday,No,Low,0
+TRF-1577,Metro Ring Expressway,Highway/Expressway,31.05,18.63,20.8,1220,89.57,Clear,Thursday,No,Low,0
+TRF-1578,Central Business Loop,Downtown Local,7.98,13.68,17.38,440,27.55,Foggy,Wednesday,No,Moderate,0
+TRF-1579,Harbor Ring Road,Collector Road,9.41,12.55,12.53,360,45.06,Clear,Saturday,No,Low,0
+TRF-1580,University Avenue,Downtown Local,6.38,9.57,31.57,1159,12.13,Clear,Thursday,Yes,Severe,1
+TRF-1581,Downtown Corridor (North-South),Arterial Road,11.94,14.33,15.8,837,45.34,Clear,Sunday,No,Low,0
+TRF-1582,West End Arterial,Arterial Road,15.12,15.12,29.09,1971,31.19,Clear,Saturday,Yes,Severe,0
+TRF-1583,Tech Park Bypass,Highway/Expressway,17.61,13.21,15.66,1586,67.47,Clear,Sunday,No,Moderate,0
+TRF-1584,Downtown Corridor (North-South),Arterial Road,12.59,15.11,40.17,737,18.81,Clear,Saturday,No,Severe,2
+TRF-1585,West End Arterial,Arterial Road,15.31,15.31,17.34,939,52.98,Clear,Sunday,No,Low,0
+TRF-1586,Downtown Corridor (North-South),Arterial Road,11.79,14.15,19.4,1055,36.46,Foggy,Thursday,No,Moderate,0
+TRF-1587,University Avenue,Downtown Local,6.32,9.48,16.23,1027,23.36,Clear,Friday,Yes,High,0
+TRF-1588,Harbor Ring Road,Collector Road,10.04,13.39,14.21,542,42.39,Clear,Sunday,No,Low,0
+TRF-1589,Central Business Loop,Downtown Local,8.6,14.74,17.72,478,29.12,Foggy,Tuesday,No,Moderate,0
+TRF-1590,Tech Park Bypass,Highway/Expressway,17.5,13.13,38.46,1780,27.3,Foggy,Saturday,No,Severe,2
+TRF-1591,Tech Park Bypass,Highway/Expressway,18.8,14.1,35.43,3151,31.84,Rainy,Friday,Yes,Severe,0
+TRF-1592,Downtown Corridor (North-South),Arterial Road,11.99,14.39,33.8,1869,21.28,Rainy,Wednesday,Yes,Severe,0
+TRF-1593,Central Business Loop,Downtown Local,8.01,13.73,24.27,1105,19.8,Clear,Wednesday,Yes,High,0
+TRF-1594,University Avenue,Downtown Local,6.29,9.44,11.91,438,31.69,Rainy,Monday,No,Moderate,0
+TRF-1595,Airport Expressway,Highway/Expressway,27.62,18.41,21.44,1681,77.29,Clear,Friday,No,Low,0
+TRF-1596,Metro Ring Expressway,Highway/Expressway,30.99,18.59,27.38,1750,67.91,Rainy,Monday,No,High,0
+TRF-1597,West End Arterial,Arterial Road,15.42,15.42,16.02,741,57.75,Clear,Monday,No,Low,0
+TRF-1598,Central Business Loop,Downtown Local,8.39,14.38,19.55,470,25.75,Rainy,Tuesday,No,Moderate,0
+TRF-1599,Downtown Corridor (North-South),Arterial Road,12.79,15.35,26.31,1769,29.17,Clear,Wednesday,Yes,High,0
+TRF-1600,Tech Park Bypass,Highway/Expressway,18.7,14.02,15.25,1324,73.57,Clear,Saturday,No,Low,0
+TRF-1601,Harbor Ring Road,Collector Road,9.6,12.8,33.13,1063,17.39,Clear,Tuesday,Yes,Severe,1
+TRF-1602,Metro Ring Expressway,Highway/Expressway,30.62,18.37,46.31,3224,39.67,Clear,Tuesday,Yes,Severe,1
+TRF-1603,Downtown Corridor (North-South),Arterial Road,11.93,14.32,14.13,696,50.66,Clear,Friday,No,Low,0
+TRF-1604,Metro Ring Expressway,Highway/Expressway,30.75,18.45,23.97,1618,76.97,Foggy,Saturday,No,Moderate,0
+TRF-1605,Downtown Corridor (North-South),Arterial Road,11.9,14.28,16.84,1041,42.4,Clear,Wednesday,No,Low,0
+TRF-1606,Airport Expressway,Highway/Expressway,27.8,18.53,24.54,1376,67.97,Rainy,Thursday,No,Moderate,0
+TRF-1607,Downtown Corridor (North-South),Arterial Road,11.91,14.29,35.94,851,19.88,Clear,Friday,No,Severe,2
+TRF-1608,Downtown Corridor (North-South),Arterial Road,12.67,15.2,19.08,691,39.84,Rainy,Saturday,No,Moderate,0
+TRF-1609,Tech Park Bypass,Highway/Expressway,17.51,13.13,16.91,1646,62.13,Foggy,Friday,No,Moderate,0
+TRF-1610,Downtown Corridor (North-South),Arterial Road,12.11,14.53,16.4,939,44.3,Clear,Thursday,No,Low,0
+TRF-1611,Tech Park Bypass,Highway/Expressway,17.75,13.31,27.9,3227,38.17,Clear,Saturday,Yes,Severe,0
+TRF-1612,University Avenue,Downtown Local,6.76,10.14,11.08,519,36.61,Clear,Wednesday,No,Low,0
+TRF-1613,Harbor Ring Road,Collector Road,9.85,13.13,15.42,533,38.33,Clear,Sunday,No,Low,0
+TRF-1614,Central Business Loop,Downtown Local,8.22,14.09,18.11,413,27.23,Foggy,Sunday,No,Moderate,0
+TRF-1615,Airport Expressway,Highway/Expressway,25.99,17.33,30.9,2987,50.47,Clear,Tuesday,Yes,High,0
+TRF-1616,Airport Expressway,Highway/Expressway,27.61,18.41,20.48,1475,80.89,Clear,Tuesday,No,Low,0
+TRF-1617,Central Business Loop,Downtown Local,8.5,14.57,28.09,457,18.16,Clear,Tuesday,No,Severe,1
+TRF-1618,Tech Park Bypass,Highway/Expressway,18.74,14.05,16.62,1694,67.65,Clear,Tuesday,No,Moderate,0
+TRF-1619,Harbor Ring Road,Collector Road,9.34,12.45,13.45,457,41.67,Clear,Sunday,No,Low,0
+TRF-1620,Airport Expressway,Highway/Expressway,25.49,16.99,18.4,1140,83.12,Clear,Thursday,No,Low,0
+TRF-1621,West End Arterial,Arterial Road,16.11,16.11,50.35,1028,19.2,Rainy,Saturday,No,Severe,2
+TRF-1622,Downtown Corridor (North-South),Arterial Road,12.72,15.26,15.8,861,48.3,Clear,Thursday,No,Low,0
+TRF-1623,Tech Park Bypass,Highway/Expressway,18.5,13.88,18.66,1356,59.49,Rainy,Monday,No,Moderate,0
+TRF-1624,Airport Expressway,Highway/Expressway,27.61,18.41,40.01,3391,41.4,Clear,Thursday,Yes,Severe,0
+TRF-1625,Tech Park Bypass,Highway/Expressway,18.76,14.07,15.29,1490,73.62,Clear,Friday,No,Low,0
+TRF-1626,Airport Expressway,Highway/Expressway,26.55,17.7,19.21,1081,82.93,Clear,Friday,No,Low,0
+TRF-1627,Downtown Corridor (North-South),Arterial Road,11.98,14.38,15.47,844,46.46,Clear,Tuesday,No,Low,0
+TRF-1628,Downtown Corridor (North-South),Arterial Road,12.94,15.53,19.86,748,39.09,Rainy,Monday,No,Moderate,0
+TRF-1629,Airport Expressway,Highway/Expressway,25.46,16.97,35.79,3247,42.68,Clear,Friday,Yes,Severe,0
+TRF-1630,Harbor Ring Road,Collector Road,10.11,13.48,40.39,980,15.02,Rainy,Monday,Yes,Severe,1
+TRF-1631,Airport Expressway,Highway/Expressway,25.52,17.01,29.45,1276,51.99,Clear,Friday,No,High,1
+TRF-1632,West End Arterial,Arterial Road,15.54,15.54,27.74,737,33.61,Clear,Saturday,No,High,1
+TRF-1633,Downtown Corridor (North-South),Arterial Road,12.25,14.7,16.45,686,44.68,Clear,Sunday,No,Low,0
+TRF-1634,Metro Ring Expressway,Highway/Expressway,31.93,19.16,44.11,3461,43.43,Clear,Sunday,Yes,Severe,0
+TRF-1635,Downtown Corridor (North-South),Arterial Road,12.06,14.47,24.18,943,29.93,Heavy Rain,Saturday,No,High,0
+TRF-1636,West End Arterial,Arterial Road,15.59,15.59,17.73,1091,52.76,Clear,Tuesday,No,Low,0
+TRF-1637,Downtown Corridor (North-South),Arterial Road,12.7,15.24,17.39,846,43.82,Clear,Saturday,No,Low,0
+TRF-1638,Airport Expressway,Highway/Expressway,26.42,17.61,39.87,3500,39.76,Clear,Wednesday,Yes,Severe,0
+TRF-1639,Central Business Loop,Downtown Local,8.26,14.16,17.93,514,27.64,Foggy,Tuesday,No,Moderate,0
+TRF-1640,University Avenue,Downtown Local,6.77,10.15,10.68,466,38.03,Clear,Sunday,No,Low,0
+TRF-1641,Harbor Ring Road,Collector Road,9.64,12.85,13.52,429,42.78,Clear,Wednesday,No,Low,0
+TRF-1642,Downtown Corridor (North-South),Arterial Road,12.96,15.55,16.78,826,46.34,Clear,Thursday,No,Low,0
+TRF-1643,West End Arterial,Arterial Road,15.61,15.61,21.98,798,42.61,Rainy,Saturday,No,Moderate,0
+TRF-1644,Tech Park Bypass,Highway/Expressway,18.21,13.66,16.66,1719,65.58,Clear,Tuesday,No,Moderate,0
+TRF-1645,Airport Expressway,Highway/Expressway,28.03,18.69,20.15,1454,83.46,Clear,Wednesday,No,Low,0
+TRF-1646,Central Business Loop,Downtown Local,8.48,14.54,24.87,1038,20.46,Clear,Thursday,Yes,High,0
+TRF-1647,Downtown Corridor (North-South),Arterial Road,12.02,14.42,36.63,1805,19.69,Heavy Rain,Monday,Yes,Severe,0
+TRF-1648,Metro Ring Expressway,Highway/Expressway,32.85,19.71,20.82,1370,94.67,Clear,Monday,No,Low,0
+TRF-1649,Central Business Loop,Downtown Local,7.99,13.7,22.55,587,21.26,Clear,Thursday,No,High,1
+TRF-1650,West End Arterial,Arterial Road,16.08,16.08,52.29,1967,18.45,Rainy,Friday,Yes,Severe,1
+TRF-1651,Central Business Loop,Downtown Local,8.09,13.87,23.83,1088,20.37,Clear,Tuesday,Yes,High,0
+TRF-1652,Central Business Loop,Downtown Local,8.09,13.87,24.03,1087,20.2,Clear,Monday,Yes,High,0
+TRF-1653,Central Business Loop,Downtown Local,8.44,14.47,17.12,455,29.58,Foggy,Thursday,No,Moderate,0
+TRF-1654,Airport Expressway,Highway/Expressway,27.4,18.27,52.3,3464,31.43,Rainy,Monday,Yes,Severe,0
+TRF-1655,Airport Expressway,Highway/Expressway,28.09,18.73,19.99,1307,84.31,Clear,Friday,No,Low,0
+TRF-1656,Airport Expressway,Highway/Expressway,27.91,18.61,25,1309,66.98,Rainy,Friday,No,Moderate,0
+TRF-1657,Harbor Ring Road,Collector Road,10.12,13.49,26.86,1050,22.61,Foggy,Sunday,Yes,Severe,0
+TRF-1658,West End Arterial,Arterial Road,15,15,31.15,2013,28.89,Clear,Tuesday,Yes,Severe,0
+TRF-1659,Metro Ring Expressway,Highway/Expressway,33.06,19.84,48.97,1785,40.51,Clear,Saturday,No,Severe,2
+TRF-1660,Downtown Corridor (North-South),Arterial Road,12.69,15.23,17.28,890,44.06,Clear,Sunday,No,Low,0
+TRF-1661,West End Arterial,Arterial Road,15.79,15.79,17.46,696,54.26,Clear,Tuesday,No,Low,0
+TRF-1662,Downtown Corridor (North-South),Arterial Road,12.36,14.83,18.05,1060,41.09,Clear,Sunday,No,Moderate,0
+TRF-1663,Central Business Loop,Downtown Local,8.39,14.38,34.77,1072,14.48,Clear,Tuesday,Yes,Severe,1
+TRF-1664,Metro Ring Expressway,Highway/Expressway,31.68,19.01,48.57,1322,39.14,Clear,Tuesday,No,Severe,2
+TRF-1665,Tech Park Bypass,Highway/Expressway,17.51,13.13,17.4,1343,60.38,Foggy,Friday,No,Moderate,0
+TRF-1666,Central Business Loop,Downtown Local,8.57,14.69,23.02,419,22.34,Clear,Wednesday,No,High,1
+TRF-1667,Downtown Corridor (North-South),Arterial Road,11.82,14.18,17.7,886,40.07,Foggy,Saturday,No,Moderate,0
+TRF-1668,Airport Expressway,Highway/Expressway,26.54,17.69,28.83,1570,55.23,Heavy Rain,Saturday,No,High,0
+TRF-1669,Central Business Loop,Downtown Local,7.88,13.51,21.4,987,22.09,Clear,Sunday,Yes,High,0
+TRF-1670,University Avenue,Downtown Local,6.48,9.72,10.62,443,36.61,Clear,Sunday,No,Low,0
+TRF-1671,Metro Ring Expressway,Highway/Expressway,32.65,19.59,46.36,3103,42.26,Rainy,Friday,Yes,Severe,0
+TRF-1672,University Avenue,Downtown Local,6.52,9.78,27.38,389,14.29,Clear,Wednesday,No,Severe,2
+TRF-1673,Tech Park Bypass,Highway/Expressway,18.23,13.67,23.17,1738,47.21,Heavy Rain,Saturday,No,High,0
+TRF-1674,Downtown Corridor (North-South),Arterial Road,12.83,15.4,16.78,918,45.88,Clear,Sunday,No,Low,0
+TRF-1675,Central Business Loop,Downtown Local,8.45,14.49,15.65,406,32.4,Clear,Sunday,No,Low,0
+TRF-1676,Harbor Ring Road,Collector Road,10.13,13.51,16.52,423,36.79,Foggy,Wednesday,No,Moderate,0
+TRF-1677,Airport Expressway,Highway/Expressway,25.58,17.05,25.1,1609,61.15,Rainy,Friday,No,High,0
+TRF-1678,Downtown Corridor (North-South),Arterial Road,12.09,14.51,16.75,983,43.31,Clear,Wednesday,No,Low,0
+TRF-1679,Metro Ring Expressway,Highway/Expressway,32.42,19.45,34.39,2889,56.56,Clear,Wednesday,Yes,High,0
+TRF-1680,West End Arterial,Arterial Road,16.36,16.36,21.64,690,45.36,Rainy,Tuesday,No,Moderate,0
+TRF-1681,Downtown Corridor (North-South),Arterial Road,12.04,14.45,32.18,1060,22.45,Foggy,Saturday,No,Severe,1
+TRF-1682,West End Arterial,Arterial Road,15.14,15.14,21.37,796,42.51,Rainy,Wednesday,No,Moderate,0
+TRF-1683,West End Arterial,Arterial Road,14.84,14.84,40.48,711,22,Heavy Rain,Friday,No,Severe,2
+TRF-1684,Tech Park Bypass,Highway/Expressway,17.37,13.03,15.46,1764,67.41,Clear,Monday,No,Moderate,0
+TRF-1685,Tech Park Bypass,Highway/Expressway,17.43,13.07,39.34,3224,26.58,Heavy Rain,Sunday,Yes,Severe,0
+TRF-1686,Metro Ring Expressway,Highway/Expressway,31.9,19.14,44.25,1296,43.25,Rainy,Wednesday,No,Severe,2
+TRF-1687,Downtown Corridor (North-South),Arterial Road,12.11,14.53,24.56,1768,29.58,Clear,Sunday,Yes,High,0
+TRF-1688,University Avenue,Downtown Local,6.24,9.36,16.14,1100,23.2,Clear,Sunday,Yes,High,0
+TRF-1689,Harbor Ring Road,Collector Road,9.52,12.69,41.23,478,13.85,Clear,Tuesday,No,Severe,2
+TRF-1690,West End Arterial,Arterial Road,15.76,15.76,31.37,1980,30.14,Clear,Thursday,Yes,Severe,0
+TRF-1691,West End Arterial,Arterial Road,16.25,16.25,22.7,814,42.95,Rainy,Saturday,No,Moderate,0
+TRF-1692,Metro Ring Expressway,Highway/Expressway,30.68,18.41,20.39,1133,90.28,Clear,Sunday,No,Low,0
+TRF-1693,University Avenue,Downtown Local,6.75,10.13,16.82,1010,24.08,Clear,Thursday,Yes,High,0
+TRF-1694,Metro Ring Expressway,Highway/Expressway,30.6,18.36,40.57,3419,45.26,Clear,Thursday,Yes,Severe,0
+TRF-1695,Tech Park Bypass,Highway/Expressway,18.18,13.63,16.07,1729,67.88,Clear,Tuesday,No,Low,0
+TRF-1696,Metro Ring Expressway,Highway/Expressway,30.63,18.38,44.85,3147,40.98,Rainy,Sunday,Yes,Severe,0
+TRF-1697,Airport Expressway,Highway/Expressway,26.44,17.63,19.9,1315,79.72,Clear,Saturday,No,Low,0
+TRF-1698,Metro Ring Expressway,Highway/Expressway,30.02,18.01,26.26,1658,68.59,Rainy,Friday,No,High,0
+TRF-1699,Tech Park Bypass,Highway/Expressway,19.07,14.3,22.31,1413,51.29,Clear,Saturday,No,High,1
+TRF-1700,Metro Ring Expressway,Highway/Expressway,32.07,19.24,45.33,3103,42.45,Rainy,Sunday,Yes,Severe,0
+TRF-1701,Harbor Ring Road,Collector Road,10.12,13.49,25.19,1163,24.1,Clear,Sunday,Yes,Severe,0
+TRF-1702,University Avenue,Downtown Local,6.81,10.21,10.14,486,40.3,Clear,Sunday,No,Low,0
+TRF-1703,Metro Ring Expressway,Highway/Expressway,31.35,18.81,21.28,1456,88.39,Clear,Thursday,No,Low,0
+TRF-1704,Tech Park Bypass,Highway/Expressway,18.43,13.82,31.17,3493,35.48,Clear,Tuesday,Yes,Severe,0
+TRF-1705,Central Business Loop,Downtown Local,8.39,14.38,15.37,564,32.75,Clear,Saturday,No,Low,0
+TRF-1706,Airport Expressway,Highway/Expressway,26.26,17.51,19.6,1230,80.39,Clear,Tuesday,No,Low,0
+TRF-1707,Tech Park Bypass,Highway/Expressway,17.79,13.34,19.13,1759,55.8,Rainy,Sunday,No,Moderate,0
+TRF-1708,University Avenue,Downtown Local,6.68,10.02,16.8,1013,23.86,Clear,Friday,Yes,High,0
+TRF-1709,West End Arterial,Arterial Road,15.68,15.68,16.98,988,55.41,Clear,Friday,No,Low,0
+TRF-1710,Central Business Loop,Downtown Local,7.88,13.51,16.95,410,27.89,Rainy,Wednesday,No,Moderate,0
+TRF-1711,Harbor Ring Road,Collector Road,9.75,13,16.12,375,36.29,Rainy,Monday,No,Moderate,0
+TRF-1712,Harbor Ring Road,Collector Road,9.85,13.13,14.28,472,41.39,Clear,Monday,No,Low,0
+TRF-1713,West End Arterial,Arterial Road,15.54,15.54,31.29,1800,29.8,Foggy,Sunday,Yes,Severe,0
+TRF-1714,Metro Ring Expressway,Highway/Expressway,30.19,18.11,38.01,3266,47.66,Clear,Thursday,Yes,Severe,0
+TRF-1715,Airport Expressway,Highway/Expressway,27.11,18.07,48.39,3327,33.61,Rainy,Saturday,Yes,Severe,0
+TRF-1716,University Avenue,Downtown Local,6.61,9.92,11.55,591,34.34,Clear,Saturday,No,Low,0
+TRF-1717,Tech Park Bypass,Highway/Expressway,17.32,12.99,18.29,1251,56.82,Rainy,Sunday,No,Moderate,0
+TRF-1718,Harbor Ring Road,Collector Road,9.4,12.53,14.59,553,38.66,Clear,Tuesday,No,Low,0
+TRF-1719,Central Business Loop,Downtown Local,7.83,13.42,21.84,985,21.51,Clear,Thursday,Yes,High,0
+TRF-1720,Airport Expressway,Highway/Expressway,27.01,18.01,36.58,1274,44.3,Rainy,Sunday,No,Severe,1
+TRF-1721,Tech Park Bypass,Highway/Expressway,18.66,14,29.46,3243,38,Clear,Tuesday,Yes,Severe,0
+TRF-1722,Airport Expressway,Highway/Expressway,27.3,18.2,29.87,1667,54.84,Heavy Rain,Monday,No,High,0
+TRF-1723,University Avenue,Downtown Local,6.46,9.69,16.75,1020,23.14,Clear,Friday,Yes,High,0
+TRF-1724,Downtown Corridor (North-South),Arterial Road,12.88,15.46,18.39,935,42.02,Clear,Monday,No,Moderate,0
+TRF-1725,West End Arterial,Arterial Road,15.22,15.22,21.66,905,42.16,Rainy,Tuesday,No,Moderate,0
+TRF-1726,Central Business Loop,Downtown Local,7.9,13.54,17.04,514,27.82,Foggy,Monday,No,Moderate,0
+TRF-1727,West End Arterial,Arterial Road,15.32,15.32,17.73,990,51.84,Clear,Monday,No,Low,0
+TRF-1728,West End Arterial,Arterial Road,15.18,15.18,19.73,726,46.16,Rainy,Monday,No,Moderate,0
+TRF-1729,Tech Park Bypass,Highway/Expressway,17.34,13,23.94,3068,43.46,Clear,Tuesday,Yes,High,0
+TRF-1730,Tech Park Bypass,Highway/Expressway,17.99,13.49,30.94,3058,34.89,Rainy,Thursday,Yes,Severe,0
+TRF-1731,Airport Expressway,Highway/Expressway,28,18.67,31.07,1748,54.07,Clear,Sunday,No,High,1
+TRF-1732,Tech Park Bypass,Highway/Expressway,17.54,13.15,16.82,1781,62.57,Clear,Saturday,No,Moderate,0
+TRF-1733,Central Business Loop,Downtown Local,8.38,14.37,15.38,426,32.69,Clear,Tuesday,No,Low,0
+TRF-1734,Downtown Corridor (North-South),Arterial Road,11.79,14.15,33.95,1934,20.84,Rainy,Thursday,Yes,Severe,0
+TRF-1735,Airport Expressway,Highway/Expressway,26.01,17.34,22.36,1235,69.79,Rainy,Thursday,No,Moderate,0
+TRF-1736,Tech Park Bypass,Highway/Expressway,18.96,14.22,31.38,1177,36.25,Rainy,Tuesday,No,Severe,1
+TRF-1737,Central Business Loop,Downtown Local,8.1,13.89,25.58,995,19,Foggy,Sunday,Yes,High,0
+TRF-1738,University Avenue,Downtown Local,6.42,9.63,23.4,1166,16.46,Rainy,Monday,Yes,Severe,0
+TRF-1739,University Avenue,Downtown Local,6.6,9.9,30.02,1164,13.19,Clear,Friday,Yes,Severe,1
+TRF-1740,Central Business Loop,Downtown Local,7.88,13.51,32.9,507,14.37,Rainy,Thursday,No,Severe,2
+TRF-1741,Central Business Loop,Downtown Local,8.03,13.77,15.07,477,31.97,Clear,Thursday,No,Low,0
+TRF-1742,Airport Expressway,Highway/Expressway,25.98,17.32,31.57,1377,49.38,Clear,Tuesday,No,High,1
+TRF-1743,Harbor Ring Road,Collector Road,10.08,13.44,23.34,539,25.91,Clear,Sunday,No,High,1
+TRF-1744,Tech Park Bypass,Highway/Expressway,18.38,13.78,41.23,1661,26.75,Clear,Wednesday,No,Severe,2
+TRF-1745,Central Business Loop,Downtown Local,8.52,14.61,16.92,563,30.21,Clear,Saturday,No,Low,0
+TRF-1746,Metro Ring Expressway,Highway/Expressway,32.99,19.79,22.3,1718,88.76,Clear,Thursday,No,Low,0
+TRF-1747,Tech Park Bypass,Highway/Expressway,18.37,13.78,17.17,1744,64.19,Clear,Thursday,No,Moderate,0
+TRF-1748,Harbor Ring Road,Collector Road,9.77,13.03,14.88,432,39.4,Clear,Tuesday,No,Low,0
+TRF-1749,West End Arterial,Arterial Road,15.08,15.08,17.11,803,52.88,Clear,Monday,No,Low,0
+TRF-1750,Central Business Loop,Downtown Local,8.24,14.13,18.96,453,26.08,Rainy,Saturday,No,Moderate,0
+TRF-1751,West End Arterial,Arterial Road,16.22,16.22,19.49,974,49.93,Clear,Sunday,No,Moderate,0
+TRF-1752,Metro Ring Expressway,Highway/Expressway,31.99,19.19,21.82,1684,87.97,Clear,Saturday,No,Low,0
+TRF-1753,West End Arterial,Arterial Road,16.25,16.25,17.73,968,54.99,Clear,Friday,No,Low,0
+TRF-1754,Harbor Ring Road,Collector Road,9.81,13.08,39.79,1049,14.79,Heavy Rain,Thursday,Yes,Severe,1
+TRF-1755,Central Business Loop,Downtown Local,8.09,13.87,19.02,486,25.52,Rainy,Monday,No,Moderate,0
+TRF-1756,Harbor Ring Road,Collector Road,9.58,12.77,22.08,1044,26.03,Clear,Thursday,Yes,High,0
+TRF-1757,Airport Expressway,Highway/Expressway,27.42,18.28,19.54,1273,84.2,Clear,Thursday,No,Low,0
+TRF-1758,Downtown Corridor (North-South),Arterial Road,12.32,14.78,18.41,870,40.15,Foggy,Sunday,No,Moderate,0
+TRF-1759,Metro Ring Expressway,Highway/Expressway,32.98,19.79,37.05,3093,53.41,Clear,Friday,Yes,Severe,0
+TRF-1760,Airport Expressway,Highway/Expressway,25.97,17.31,32.47,3026,47.99,Clear,Tuesday,Yes,Severe,0
+TRF-1761,West End Arterial,Arterial Road,15.39,15.39,29.87,1911,30.91,Clear,Tuesday,Yes,Severe,0
+TRF-1762,Tech Park Bypass,Highway/Expressway,19.04,14.28,35.32,3101,32.34,Rainy,Saturday,Yes,Severe,0
+TRF-1763,Central Business Loop,Downtown Local,7.83,13.42,17.96,371,26.16,Rainy,Friday,No,Moderate,0
+TRF-1764,Airport Expressway,Highway/Expressway,26.74,17.83,36.64,3260,43.79,Clear,Wednesday,Yes,Severe,0
+TRF-1765,Airport Expressway,Highway/Expressway,27.01,18.01,39.27,3366,41.27,Clear,Thursday,Yes,Severe,0
+TRF-1766,University Avenue,Downtown Local,6.6,9.9,9.58,371,41.34,Clear,Sunday,No,Low,0
+TRF-1767,University Avenue,Downtown Local,6.25,9.38,15.77,1053,23.78,Clear,Wednesday,Yes,High,0
+TRF-1768,West End Arterial,Arterial Road,15.07,15.07,17.83,1071,50.71,Clear,Tuesday,No,Moderate,0
+TRF-1769,Downtown Corridor (North-South),Arterial Road,12.2,14.64,28.37,1978,25.8,Clear,Friday,Yes,Severe,0
+TRF-1770,Harbor Ring Road,Collector Road,9.89,13.19,29.98,1012,19.79,Clear,Sunday,Yes,Severe,1
+TRF-1771,Central Business Loop,Downtown Local,7.91,13.56,40.54,1146,11.71,Clear,Wednesday,Yes,Severe,2
+TRF-1772,Metro Ring Expressway,Highway/Expressway,32.88,19.73,37.64,1261,52.41,Clear,Wednesday,No,Severe,2
+TRF-1773,West End Arterial,Arterial Road,15.14,15.14,17.76,923,51.15,Clear,Thursday,No,Low,0
+TRF-1774,Harbor Ring Road,Collector Road,9.89,13.19,18.29,391,32.44,Rainy,Saturday,No,Moderate,0
+TRF-1775,West End Arterial,Arterial Road,15.75,15.75,16.17,739,58.44,Clear,Friday,No,Low,0
+TRF-1776,Tech Park Bypass,Highway/Expressway,18.58,13.93,28.18,3214,39.56,Clear,Friday,Yes,Severe,0
+TRF-1777,Downtown Corridor (North-South),Arterial Road,12.94,15.53,16.44,927,47.23,Clear,Sunday,No,Low,0
+TRF-1778,Airport Expressway,Highway/Expressway,26.15,17.43,19.28,1489,81.38,Clear,Saturday,No,Low,0
+TRF-1779,Tech Park Bypass,Highway/Expressway,18.61,13.96,31.42,2939,35.54,Rainy,Saturday,Yes,Severe,0
+TRF-1780,University Avenue,Downtown Local,6.33,9.5,22.52,558,16.87,Rainy,Sunday,No,Severe,1
+TRF-1781,Airport Expressway,Highway/Expressway,26.64,17.76,30.47,1674,52.46,Heavy Rain,Thursday,No,High,0
+TRF-1782,Tech Park Bypass,Highway/Expressway,17.41,13.06,13.94,1491,74.94,Clear,Saturday,No,Low,0
+TRF-1783,Downtown Corridor (North-South),Arterial Road,12.31,14.77,31.77,1771,23.25,Rainy,Thursday,Yes,Severe,0
+TRF-1784,Airport Expressway,Highway/Expressway,27.2,18.13,45.82,3128,35.62,Clear,Friday,Yes,Severe,1
+TRF-1785,West End Arterial,Arterial Road,15.51,15.51,28.03,1819,33.2,Clear,Friday,Yes,High,0
+TRF-1786,Downtown Corridor (North-South),Arterial Road,12.79,15.35,16.85,1009,45.54,Clear,Monday,No,Low,0
+TRF-1787,Airport Expressway,Highway/Expressway,25.95,17.3,38.58,3484,40.36,Clear,Monday,Yes,Severe,0
+TRF-1788,Central Business Loop,Downtown Local,8.52,14.61,24.13,1045,21.19,Clear,Tuesday,Yes,High,0
+TRF-1789,University Avenue,Downtown Local,6.34,9.51,11.75,510,32.37,Foggy,Tuesday,No,Moderate,0
+TRF-1790,Metro Ring Expressway,Highway/Expressway,31.96,19.18,40.82,3279,46.98,Clear,Sunday,Yes,Severe,0
+TRF-1791,University Avenue,Downtown Local,6.37,9.55,12.84,456,29.77,Foggy,Friday,No,Moderate,0
+TRF-1792,Central Business Loop,Downtown Local,8.42,14.43,16.05,595,31.48,Clear,Saturday,No,Low,0
+TRF-1793,Tech Park Bypass,Highway/Expressway,19.04,14.28,15.34,1274,74.47,Clear,Wednesday,No,Low,0
+TRF-1794,West End Arterial,Arterial Road,14.85,14.85,15.73,866,56.64,Clear,Tuesday,No,Low,0
+TRF-1795,Metro Ring Expressway,Highway/Expressway,32.08,19.25,22.88,1212,84.13,Foggy,Sunday,No,Moderate,0
+TRF-1796,Harbor Ring Road,Collector Road,9.76,13.01,20.06,1002,29.19,Clear,Thursday,Yes,High,0
+TRF-1797,University Avenue,Downtown Local,6.41,9.62,20.82,1159,18.47,Foggy,Wednesday,Yes,Severe,0
+TRF-1798,Harbor Ring Road,Collector Road,9.65,12.87,15.68,498,36.93,Foggy,Sunday,No,Moderate,0
+TRF-1799,Harbor Ring Road,Collector Road,9.78,13.04,29.08,1121,20.18,Rainy,Friday,Yes,Severe,0
+TRF-1800,Harbor Ring Road,Collector Road,9.96,13.28,21.44,994,27.87,Clear,Wednesday,Yes,High,0
+TRF-1801,Central Business Loop,Downtown Local,7.86,13.47,15.8,475,29.85,Foggy,Wednesday,No,Low,0
+TRF-1802,University Avenue,Downtown Local,6.4,9.6,20.6,1021,18.64,Rainy,Tuesday,Yes,Severe,0
+TRF-1803,Central Business Loop,Downtown Local,8,13.71,23.16,1055,20.73,Clear,Thursday,Yes,High,0
+TRF-1804,Central Business Loop,Downtown Local,7.97,13.66,21.63,418,22.11,Heavy Rain,Wednesday,No,High,0
+TRF-1805,Harbor Ring Road,Collector Road,9.71,12.95,14.07,387,41.41,Clear,Thursday,No,Low,0
+TRF-1806,West End Arterial,Arterial Road,15.58,15.58,33.54,1818,27.87,Rainy,Tuesday,Yes,Severe,0
+TRF-1807,Downtown Corridor (North-South),Arterial Road,11.91,14.29,16.07,742,44.47,Clear,Wednesday,No,Low,0
+TRF-1808,Airport Expressway,Highway/Expressway,28.09,18.73,22.06,1485,76.4,Clear,Sunday,No,Low,0
+TRF-1809,Central Business Loop,Downtown Local,8.35,14.31,16.45,502,30.46,Clear,Saturday,No,Low,0
+TRF-1810,Metro Ring Expressway,Highway/Expressway,30.13,18.08,20.63,1548,87.63,Clear,Thursday,No,Low,0
+TRF-1811,Central Business Loop,Downtown Local,8.13,13.94,19.41,595,25.13,Foggy,Saturday,No,Moderate,0
+TRF-1812,West End Arterial,Arterial Road,15.08,15.08,15.36,705,58.91,Clear,Thursday,No,Low,0
+TRF-1813,Central Business Loop,Downtown Local,8.14,13.95,19.23,592,25.4,Rainy,Thursday,No,Moderate,0
+TRF-1814,Airport Expressway,Highway/Expressway,25.52,17.01,18.43,1575,83.08,Clear,Wednesday,No,Low,0
+TRF-1815,Harbor Ring Road,Collector Road,9.59,12.79,13.16,366,43.72,Clear,Saturday,No,Low,0
+TRF-1816,West End Arterial,Arterial Road,15.66,15.66,42.92,1940,21.89,Heavy Rain,Wednesday,Yes,Severe,0
+TRF-1817,Tech Park Bypass,Highway/Expressway,17.57,13.18,16.04,1100,65.72,Foggy,Sunday,No,Moderate,0
+TRF-1818,Downtown Corridor (North-South),Arterial Road,12.24,14.69,17.36,961,42.3,Clear,Saturday,No,Moderate,0
+TRF-1819,Downtown Corridor (North-South),Arterial Road,12.67,15.2,43.08,1947,17.65,Heavy Rain,Thursday,Yes,Severe,0
+TRF-1820,Metro Ring Expressway,Highway/Expressway,30.35,18.21,20.34,1319,89.53,Clear,Sunday,No,Low,0
+TRF-1821,Airport Expressway,Highway/Expressway,27.46,18.31,20.63,1383,79.86,Clear,Monday,No,Low,0
+TRF-1822,Harbor Ring Road,Collector Road,9.61,12.81,20.75,1035,27.79,Clear,Tuesday,Yes,High,0
+TRF-1823,Harbor Ring Road,Collector Road,9.61,12.81,21.11,583,27.31,Clear,Saturday,No,High,1
+TRF-1824,Central Business Loop,Downtown Local,8.3,14.23,18.25,478,27.29,Rainy,Friday,No,Moderate,0
+TRF-1825,Downtown Corridor (North-South),Arterial Road,12.67,15.2,16.68,951,45.58,Clear,Sunday,No,Low,0
+TRF-1826,Harbor Ring Road,Collector Road,10.09,13.45,37.95,1157,15.95,Heavy Rain,Wednesday,Yes,Severe,0
+TRF-1827,Harbor Ring Road,Collector Road,9.55,12.73,15.92,440,35.99,Rainy,Saturday,No,Moderate,0
+TRF-1828,Downtown Corridor (North-South),Arterial Road,12.15,14.58,16.15,1022,45.14,Clear,Thursday,No,Low,0
+TRF-1829,University Avenue,Downtown Local,6.49,9.73,17.43,1056,22.34,Clear,Monday,Yes,High,0
+TRF-1830,Tech Park Bypass,Highway/Expressway,18.62,13.96,49.87,2966,22.4,Heavy Rain,Wednesday,Yes,Severe,1
+TRF-1831,West End Arterial,Arterial Road,15.47,15.47,34.24,2106,27.11,Clear,Saturday,Yes,Severe,0
+TRF-1832,West End Arterial,Arterial Road,16.13,16.13,30.95,964,31.27,Clear,Tuesday,No,Severe,1
+TRF-1833,Central Business Loop,Downtown Local,7.98,13.68,30.11,1076,15.9,Rainy,Wednesday,Yes,Severe,0
+TRF-1834,Tech Park Bypass,Highway/Expressway,18.57,13.93,27.29,1686,40.83,Clear,Friday,No,Severe,1
+TRF-1835,Tech Park Bypass,Highway/Expressway,18.4,13.8,41.51,1759,26.6,Clear,Sunday,No,Severe,2
+TRF-1836,University Avenue,Downtown Local,6.66,9.99,13.15,546,30.39,Rainy,Sunday,No,Moderate,0
+TRF-1837,Airport Expressway,Highway/Expressway,26.23,17.49,35.79,2947,43.97,Foggy,Monday,Yes,Severe,0
+TRF-1838,Downtown Corridor (North-South),Arterial Road,11.98,14.38,40.16,2037,17.9,Clear,Thursday,Yes,Severe,1
+TRF-1839,Metro Ring Expressway,Highway/Expressway,32.63,19.58,51.11,2910,38.31,Rainy,Saturday,Yes,Severe,1
+TRF-1840,West End Arterial,Arterial Road,15.26,15.26,16.83,926,54.4,Clear,Tuesday,No,Low,0
+TRF-1841,Downtown Corridor (North-South),Arterial Road,12.05,14.46,17.1,1031,42.28,Clear,Monday,No,Moderate,0
+TRF-1842,Harbor Ring Road,Collector Road,10.25,13.67,14.31,435,42.98,Clear,Friday,No,Low,0
+TRF-1843,University Avenue,Downtown Local,6.45,9.68,12.23,517,31.64,Foggy,Monday,No,Moderate,0
+TRF-1844,Airport Expressway,Highway/Expressway,27.56,18.37,38.22,1502,43.27,Clear,Wednesday,No,Severe,2
+TRF-1845,Downtown Corridor (North-South),Arterial Road,12.61,15.13,21.57,1096,35.08,Rainy,Tuesday,No,Moderate,0
+TRF-1846,Downtown Corridor (North-South),Arterial Road,12.16,14.59,18.84,833,38.73,Rainy,Friday,No,Moderate,0
+TRF-1847,Airport Expressway,Highway/Expressway,26.73,17.82,51.07,3114,31.4,Rainy,Sunday,Yes,Severe,1
+TRF-1848,Metro Ring Expressway,Highway/Expressway,30.96,18.58,24.57,1578,75.6,Foggy,Thursday,No,Moderate,0
+TRF-1849,Downtown Corridor (North-South),Arterial Road,12.17,14.6,44.08,928,16.57,Clear,Sunday,No,Severe,2
+TRF-1850,Tech Park Bypass,Highway/Expressway,17.62,13.21,20.84,1562,50.73,Heavy Rain,Tuesday,No,High,0
+TRF-1851,Central Business Loop,Downtown Local,8,13.71,37.69,543,12.74,Clear,Sunday,No,Severe,2
+TRF-1852,Tech Park Bypass,Highway/Expressway,17.79,13.34,23.07,2900,46.27,Clear,Friday,Yes,High,0
+TRF-1853,University Avenue,Downtown Local,6.32,9.48,18.33,994,20.69,Rainy,Tuesday,Yes,Severe,0
+TRF-1854,Central Business Loop,Downtown Local,8.29,14.21,14.84,483,33.52,Clear,Sunday,No,Low,0
+TRF-1855,Metro Ring Expressway,Highway/Expressway,31.38,18.83,21.66,1628,86.93,Clear,Sunday,No,Low,0
+TRF-1856,Metro Ring Expressway,Highway/Expressway,32.12,19.27,39.51,3225,48.78,Clear,Wednesday,Yes,Severe,0
+TRF-1857,Tech Park Bypass,Highway/Expressway,18.22,13.66,14.73,1504,74.22,Clear,Wednesday,No,Low,0
+TRF-1858,Downtown Corridor (North-South),Arterial Road,12.4,14.88,16.12,859,46.15,Clear,Friday,No,Low,0
+TRF-1859,West End Arterial,Arterial Road,15.54,15.54,16.58,662,56.24,Clear,Saturday,No,Low,0
+TRF-1860,Metro Ring Expressway,Highway/Expressway,32.5,19.5,53.74,3205,36.29,Foggy,Friday,Yes,Severe,1
+TRF-1861,Airport Expressway,Highway/Expressway,26.07,17.38,23.73,1164,65.92,Rainy,Wednesday,No,Moderate,0
+TRF-1862,Harbor Ring Road,Collector Road,9.86,13.15,16.74,366,35.34,Foggy,Tuesday,No,Moderate,0
+TRF-1863,Metro Ring Expressway,Highway/Expressway,31.01,18.61,26.26,1792,70.85,Foggy,Friday,No,Moderate,0
+TRF-1864,Metro Ring Expressway,Highway/Expressway,31.68,19.01,45.93,2989,41.38,Clear,Monday,Yes,Severe,1
+TRF-1865,Downtown Corridor (North-South),Arterial Road,12.37,14.84,27.67,1932,26.82,Clear,Tuesday,Yes,Severe,0
+TRF-1866,West End Arterial,Arterial Road,15.22,15.22,16.69,737,54.72,Clear,Sunday,No,Low,0
+TRF-1867,Airport Expressway,Highway/Expressway,27.18,18.12,30.9,1799,52.78,Heavy Rain,Monday,No,High,0
+TRF-1868,West End Arterial,Arterial Road,15.06,15.06,21.65,1085,41.74,Rainy,Sunday,No,Moderate,0
+TRF-1869,Airport Expressway,Highway/Expressway,27.44,18.29,21.79,1785,75.56,Clear,Thursday,No,Moderate,0
+TRF-1870,University Avenue,Downtown Local,6.51,9.77,20.03,1009,19.5,Rainy,Saturday,Yes,Severe,0
+TRF-1871,West End Arterial,Arterial Road,15.2,15.2,15.87,809,57.47,Clear,Tuesday,No,Low,0
+TRF-1872,Tech Park Bypass,Highway/Expressway,18.03,13.52,13.72,1137,78.85,Clear,Saturday,No,Low,0
+TRF-1873,Tech Park Bypass,Highway/Expressway,17.33,13,16.09,1712,64.62,Clear,Monday,No,Moderate,0
+TRF-1874,West End Arterial,Arterial Road,14.93,14.93,40.49,2104,22.12,Rainy,Wednesday,Yes,Severe,0
+TRF-1875,Metro Ring Expressway,Highway/Expressway,31.79,19.07,61.28,3389,31.13,Clear,Tuesday,Yes,Severe,2
+TRF-1876,West End Arterial,Arterial Road,16.25,16.25,18.69,899,52.17,Clear,Sunday,No,Low,0
+TRF-1877,Central Business Loop,Downtown Local,7.9,13.54,19.74,408,24.01,Heavy Rain,Saturday,No,High,0
+TRF-1878,Central Business Loop,Downtown Local,8.18,14.02,15.54,360,31.58,Clear,Thursday,No,Low,0
+TRF-1879,Harbor Ring Road,Collector Road,10.19,13.59,14.21,563,43.03,Clear,Sunday,No,Low,0
+TRF-1880,Downtown Corridor (North-South),Arterial Road,12.41,14.89,16.44,1071,45.29,Clear,Monday,No,Low,0
+TRF-1881,Tech Park Bypass,Highway/Expressway,17.41,13.06,17.61,1707,59.32,Foggy,Tuesday,No,Moderate,0
+TRF-1882,Tech Park Bypass,Highway/Expressway,17.41,13.06,17.57,1401,59.45,Rainy,Saturday,No,Moderate,0
+TRF-1883,West End Arterial,Arterial Road,15.63,15.63,27.78,1790,33.76,Clear,Sunday,Yes,High,0
+TRF-1884,Central Business Loop,Downtown Local,8.11,13.9,26.08,1155,18.66,Clear,Monday,Yes,Severe,0
+TRF-1885,Airport Expressway,Highway/Expressway,27.47,18.31,37.45,3305,44.01,Clear,Friday,Yes,Severe,0
+TRF-1886,Metro Ring Expressway,Highway/Expressway,31.46,18.88,23.01,1772,82.03,Clear,Thursday,No,Moderate,0
+TRF-1887,Central Business Loop,Downtown Local,8.44,14.47,39.67,481,12.77,Clear,Monday,No,Severe,2
+TRF-1888,University Avenue,Downtown Local,6.74,10.11,11.61,503,34.83,Clear,Friday,No,Low,0
+TRF-1889,Tech Park Bypass,Highway/Expressway,17.51,13.13,18.06,1278,58.17,Rainy,Sunday,No,Moderate,0
+TRF-1890,Metro Ring Expressway,Highway/Expressway,31.7,19.02,20.3,1222,93.69,Clear,Sunday,No,Low,0
+TRF-1891,University Avenue,Downtown Local,6.8,10.2,37.71,592,10.82,Clear,Sunday,No,Severe,2
+TRF-1892,West End Arterial,Arterial Road,15.26,15.26,36.67,1947,24.97,Rainy,Friday,Yes,Severe,0
+TRF-1893,West End Arterial,Arterial Road,15.66,15.66,19.17,1045,49.01,Clear,Tuesday,No,Moderate,0
+TRF-1894,Airport Expressway,Highway/Expressway,26.73,17.82,27.21,1711,58.94,Rainy,Tuesday,No,High,0
+TRF-1895,Harbor Ring Road,Collector Road,9.69,12.92,35.81,1167,16.24,Heavy Rain,Thursday,Yes,Severe,0
+TRF-1896,Tech Park Bypass,Highway/Expressway,18.51,13.88,14.64,1234,75.86,Clear,Saturday,No,Low,0
+TRF-1897,Metro Ring Expressway,Highway/Expressway,31.67,19,26.15,1467,72.67,Rainy,Wednesday,No,Moderate,0
+TRF-1898,West End Arterial,Arterial Road,15.71,15.71,17.29,662,54.52,Clear,Friday,No,Low,0
+TRF-1899,Metro Ring Expressway,Highway/Expressway,31.98,19.19,21.58,1453,88.92,Clear,Saturday,No,Low,0
+TRF-1900,Central Business Loop,Downtown Local,8.55,14.66,40.35,426,12.71,Heavy Rain,Friday,No,Severe,2
+TRF-1901,Tech Park Bypass,Highway/Expressway,18.72,14.04,16.02,1508,70.11,Clear,Tuesday,No,Low,0
+TRF-1902,Harbor Ring Road,Collector Road,9.85,13.13,38.31,1161,15.43,Rainy,Friday,Yes,Severe,1
+TRF-1903,Downtown Corridor (North-South),Arterial Road,12.3,14.76,24.62,1766,29.98,Clear,Sunday,Yes,High,0
+TRF-1904,Central Business Loop,Downtown Local,8.55,14.66,23.56,1006,21.77,Clear,Thursday,Yes,High,0
+TRF-1905,Downtown Corridor (North-South),Arterial Road,12.21,14.65,15.43,921,47.48,Clear,Thursday,No,Low,0
+TRF-1906,Airport Expressway,Highway/Expressway,26.26,17.51,39.37,3485,40.02,Clear,Sunday,Yes,Severe,0
+TRF-1907,Harbor Ring Road,Collector Road,9.81,13.08,34.43,1101,17.1,Heavy Rain,Sunday,Yes,Severe,0
+TRF-1908,Metro Ring Expressway,Highway/Expressway,31.62,18.97,25.86,1102,73.36,Rainy,Monday,No,Moderate,0
+TRF-1909,Metro Ring Expressway,Highway/Expressway,30.73,18.44,26.23,1386,70.29,Rainy,Tuesday,No,Moderate,0
+TRF-1910,West End Arterial,Arterial Road,16.28,16.28,33.05,1793,29.56,Foggy,Friday,Yes,Severe,0
+TRF-1911,Downtown Corridor (North-South),Arterial Road,11.81,14.17,17.56,899,40.35,Foggy,Saturday,No,Moderate,0
+TRF-1912,Central Business Loop,Downtown Local,8.3,14.23,27,538,18.44,Clear,Monday,No,Severe,1
+TRF-1913,Airport Expressway,Highway/Expressway,25.6,17.07,19.49,1700,78.81,Clear,Wednesday,No,Low,0
+TRF-1914,Downtown Corridor (North-South),Arterial Road,12.28,14.74,16.87,1056,43.68,Clear,Saturday,No,Low,0
+TRF-1915,Central Business Loop,Downtown Local,8.32,14.26,28.75,982,17.36,Rainy,Friday,Yes,Severe,0
+TRF-1916,University Avenue,Downtown Local,6.46,9.69,20.62,1024,18.8,Rainy,Saturday,Yes,Severe,0
+TRF-1917,Downtown Corridor (North-South),Arterial Road,12.37,14.84,37.89,2087,19.59,Clear,Friday,Yes,Severe,1
+TRF-1918,Metro Ring Expressway,Highway/Expressway,30.74,18.44,33.57,2908,54.94,Clear,Sunday,Yes,High,0
+TRF-1919,Harbor Ring Road,Collector Road,9.74,12.99,45.51,1053,12.84,Foggy,Friday,Yes,Severe,2
+TRF-1920,Harbor Ring Road,Collector Road,10.06,13.41,30.17,496,20.01,Foggy,Wednesday,No,Severe,1
+TRF-1921,West End Arterial,Arterial Road,15.71,15.71,44.54,956,21.16,Clear,Monday,No,Severe,2
+TRF-1922,Downtown Corridor (North-South),Arterial Road,11.91,14.29,30.58,1763,23.37,Rainy,Monday,Yes,Severe,0
+TRF-1923,Downtown Corridor (North-South),Arterial Road,11.95,14.34,29.46,926,24.34,Clear,Sunday,No,Severe,1
+TRF-1924,Tech Park Bypass,Highway/Expressway,18.24,13.68,33.88,3202,32.3,Rainy,Wednesday,Yes,Severe,0
+TRF-1925,Downtown Corridor (North-South),Arterial Road,12.8,15.36,31.36,1983,24.49,Clear,Thursday,Yes,Severe,0
+TRF-1926,University Avenue,Downtown Local,6.6,9.9,16.62,1007,23.83,Clear,Thursday,Yes,High,0
+TRF-1927,Metro Ring Expressway,Highway/Expressway,32.36,19.42,34.38,2911,56.47,Clear,Saturday,Yes,High,0
+TRF-1928,Harbor Ring Road,Collector Road,9.96,13.28,15.69,563,38.09,Clear,Sunday,No,Moderate,0
+TRF-1929,Harbor Ring Road,Collector Road,9.64,12.85,16.01,368,36.13,Rainy,Sunday,No,Moderate,0
+TRF-1930,University Avenue,Downtown Local,6.67,10.01,27.65,1122,14.47,Heavy Rain,Tuesday,Yes,Severe,0
+TRF-1931,Central Business Loop,Downtown Local,7.8,13.37,14.2,538,32.96,Clear,Wednesday,No,Low,0
+TRF-1932,Metro Ring Expressway,Highway/Expressway,32.98,19.79,53.55,3248,36.95,Clear,Tuesday,Yes,Severe,1
+TRF-1933,Central Business Loop,Downtown Local,8.24,14.13,34.03,1162,14.53,Rainy,Tuesday,Yes,Severe,0
+TRF-1934,West End Arterial,Arterial Road,15.26,15.26,16.69,872,54.86,Clear,Sunday,No,Low,0
+TRF-1935,Metro Ring Expressway,Highway/Expressway,31.26,18.76,36.86,1357,50.88,Foggy,Saturday,No,Severe,1
+TRF-1936,Metro Ring Expressway,Highway/Expressway,30.26,18.16,20.36,1186,89.17,Clear,Wednesday,No,Low,0
+TRF-1937,Central Business Loop,Downtown Local,8.41,14.42,16.16,479,31.23,Clear,Friday,No,Low,0
+TRF-1938,University Avenue,Downtown Local,6.33,9.5,22.83,1152,16.64,Rainy,Thursday,Yes,Severe,0
+TRF-1939,Metro Ring Expressway,Highway/Expressway,31.14,18.68,38.14,3210,48.99,Clear,Thursday,Yes,Severe,0
+TRF-1940,University Avenue,Downtown Local,6.53,9.79,10.53,380,37.21,Clear,Thursday,No,Low,0
+TRF-1941,University Avenue,Downtown Local,6.18,9.27,9.05,379,40.97,Clear,Sunday,No,Low,0
+TRF-1942,Tech Park Bypass,Highway/Expressway,17.62,13.21,15.49,1463,68.25,Clear,Saturday,No,Low,0
+TRF-1943,Downtown Corridor (North-South),Arterial Road,12.14,14.57,16.33,840,44.61,Clear,Tuesday,No,Low,0
+TRF-1944,Airport Expressway,Highway/Expressway,27.76,18.51,31.32,1632,53.18,Clear,Saturday,No,High,1
+TRF-1945,Harbor Ring Road,Collector Road,9.65,12.87,17.82,426,32.49,Rainy,Saturday,No,Moderate,0
+TRF-1946,Airport Expressway,Highway/Expressway,25.67,17.11,18.26,1315,84.35,Clear,Monday,No,Low,0
+TRF-1947,West End Arterial,Arterial Road,15.69,15.69,31.65,1956,29.74,Clear,Tuesday,Yes,Severe,0
+TRF-1948,Central Business Loop,Downtown Local,8.51,14.59,20.63,542,24.75,Rainy,Sunday,No,Moderate,0
+TRF-1949,Metro Ring Expressway,Highway/Expressway,32.62,19.57,21.15,1227,92.54,Clear,Saturday,No,Low,0
+TRF-1950,Metro Ring Expressway,Highway/Expressway,32.59,19.55,39.93,3255,48.97,Clear,Friday,Yes,Severe,0
+TRF-1951,Tech Park Bypass,Highway/Expressway,17.56,13.17,15.07,1387,69.91,Clear,Sunday,No,Low,0
+TRF-1952,Central Business Loop,Downtown Local,7.92,13.58,24,1109,19.8,Clear,Friday,Yes,High,0
+TRF-1953,Tech Park Bypass,Highway/Expressway,17.46,13.1,15.32,1385,68.38,Clear,Sunday,No,Low,0
+TRF-1954,Tech Park Bypass,Highway/Expressway,18.19,13.64,15.38,1521,70.96,Clear,Tuesday,No,Low,0
+TRF-1955,Harbor Ring Road,Collector Road,9.61,12.81,13.71,403,42.06,Clear,Saturday,No,Low,0
+TRF-1956,Metro Ring Expressway,Highway/Expressway,31.93,19.16,46.84,3085,40.9,Rainy,Wednesday,Yes,Severe,0
+TRF-1957,Downtown Corridor (North-South),Arterial Road,12.09,14.51,15.66,946,46.32,Clear,Tuesday,No,Low,0
+TRF-1958,Harbor Ring Road,Collector Road,9.93,13.24,14.14,587,42.14,Clear,Saturday,No,Low,0
+TRF-1959,Downtown Corridor (North-South),Arterial Road,12.78,15.34,20.74,939,36.97,Foggy,Tuesday,No,Moderate,0
+TRF-1960,University Avenue,Downtown Local,6.66,9.99,18.94,570,21.1,Clear,Monday,No,Severe,1
+TRF-1961,Metro Ring Expressway,Highway/Expressway,31.81,19.09,49.86,3249,38.28,Clear,Friday,Yes,Severe,1
+TRF-1962,Airport Expressway,Highway/Expressway,27.29,18.19,27.72,1099,59.07,Clear,Sunday,No,High,1
+TRF-1963,West End Arterial,Arterial Road,15.21,15.21,16.65,857,54.81,Clear,Tuesday,No,Low,0
+TRF-1964,Airport Expressway,Highway/Expressway,26.19,17.46,26.39,1700,59.55,Rainy,Thursday,No,High,0
+TRF-1965,Tech Park Bypass,Highway/Expressway,18.51,13.88,19.6,1666,56.66,Rainy,Monday,No,Moderate,0
+TRF-1966,West End Arterial,Arterial Road,15.83,15.83,28.12,1768,33.78,Clear,Tuesday,Yes,High,0
+TRF-1967,Downtown Corridor (North-South),Arterial Road,12.78,15.34,26.08,1780,29.4,Clear,Friday,Yes,High,0
+TRF-1968,Tech Park Bypass,Highway/Expressway,19,14.25,53.76,3366,21.21,Clear,Sunday,Yes,Severe,2
+TRF-1969,Central Business Loop,Downtown Local,8,13.71,14.87,492,32.28,Clear,Sunday,No,Low,0
+TRF-1970,Metro Ring Expressway,Highway/Expressway,30.9,18.54,22.19,1791,83.55,Clear,Friday,No,Moderate,0
+TRF-1971,West End Arterial,Arterial Road,16.08,16.08,35.49,1784,27.19,Rainy,Friday,Yes,Severe,0
+TRF-1972,Harbor Ring Road,Collector Road,10.05,13.4,22.12,1001,27.26,Clear,Tuesday,Yes,High,0
+TRF-1973,University Avenue,Downtown Local,6.26,9.39,13.38,490,28.07,Rainy,Sunday,No,Moderate,0
+TRF-1974,Tech Park Bypass,Highway/Expressway,19.1,14.33,21.86,1649,52.42,Rainy,Sunday,No,High,0
+TRF-1975,Tech Park Bypass,Highway/Expressway,17.7,13.28,26.54,3243,40.02,Clear,Thursday,Yes,Severe,0
+TRF-1976,Airport Expressway,Highway/Expressway,25.56,17.04,22.64,1525,67.74,Foggy,Thursday,No,Moderate,0
+TRF-1977,University Avenue,Downtown Local,6.19,9.29,13.49,476,27.53,Rainy,Friday,No,High,0
+TRF-1978,Downtown Corridor (North-South),Arterial Road,13.01,15.61,32.83,1773,23.78,Rainy,Saturday,Yes,Severe,0
+TRF-1979,Tech Park Bypass,Highway/Expressway,17.92,13.44,27.63,3223,38.91,Clear,Friday,Yes,Severe,0
+TRF-1980,University Avenue,Downtown Local,6.34,9.51,17.29,1059,22,Clear,Tuesday,Yes,High,0
+TRF-1981,Harbor Ring Road,Collector Road,9.69,12.92,25.53,1149,22.77,Clear,Friday,Yes,Severe,0
+TRF-1982,Metro Ring Expressway,Highway/Expressway,31.18,18.71,45.86,3294,40.79,Foggy,Saturday,Yes,Severe,0
+TRF-1983,Harbor Ring Road,Collector Road,10.28,13.71,14.02,381,43.99,Clear,Saturday,No,Low,0
+TRF-1984,Tech Park Bypass,Highway/Expressway,18.65,13.99,29.15,3198,38.39,Clear,Wednesday,Yes,Severe,0
+TRF-1985,Tech Park Bypass,Highway/Expressway,18.24,13.68,26.34,3061,41.55,Clear,Tuesday,Yes,Severe,0
+TRF-1986,Tech Park Bypass,Highway/Expressway,18.36,13.77,15.74,1562,69.99,Clear,Saturday,No,Low,0
+TRF-1987,University Avenue,Downtown Local,6.44,9.66,10.16,404,38.03,Clear,Tuesday,No,Low,0
+TRF-1988,Central Business Loop,Downtown Local,7.83,13.42,24.65,1121,19.06,Clear,Tuesday,Yes,High,0
+TRF-1989,Central Business Loop,Downtown Local,8.09,13.87,15.64,491,31.04,Clear,Thursday,No,Low,0
+TRF-1990,West End Arterial,Arterial Road,15.89,15.89,29.9,1865,31.89,Clear,Friday,Yes,Severe,0
+TRF-1991,Tech Park Bypass,Highway/Expressway,17.88,13.41,33.27,3155,32.25,Rainy,Tuesday,Yes,Severe,0
+TRF-1992,West End Arterial,Arterial Road,15.85,15.85,34.07,1781,27.91,Rainy,Tuesday,Yes,Severe,0
+TRF-1993,Central Business Loop,Downtown Local,8.56,14.67,15.15,384,33.9,Clear,Sunday,No,Low,0
+TRF-1994,West End Arterial,Arterial Road,15.87,15.87,45.87,2000,20.76,Heavy Rain,Friday,Yes,Severe,0
+TRF-1995,University Avenue,Downtown Local,6.7,10.05,14.25,486,28.21,Rainy,Thursday,No,Moderate,0
+TRF-1996,West End Arterial,Arterial Road,15.57,15.57,16.32,661,57.24,Clear,Wednesday,No,Low,0
+TRF-1997,Central Business Loop,Downtown Local,8.14,13.95,23.94,1099,20.4,Clear,Thursday,Yes,High,0
+TRF-1998,University Avenue,Downtown Local,6.27,9.4,9.42,430,39.94,Clear,Wednesday,No,Low,0
+TRF-1999,Metro Ring Expressway,Highway/Expressway,31.98,19.19,20.63,1304,93.01,Clear,Wednesday,No,Low,0
+TRF-2000,Metro Ring Expressway,Highway/Expressway,32.82,19.69,42.87,3436,45.93,Clear,Thursday,Yes,Severe,0
+TRF-2001,Metro Ring Expressway,Highway/Expressway,33.07,19.84,27.42,1574,72.36,Rainy,Wednesday,No,Moderate,0
+TRF-2002,Airport Expressway,Highway/Expressway,27.58,18.39,20.13,1340,82.21,Clear,Monday,No,Low,0
+TRF-2003,University Avenue,Downtown Local,6.49,9.73,10.96,510,35.53,Clear,Friday,No,Low,0
+TRF-2004,Metro Ring Expressway,Highway/Expressway,32.14,19.28,20.81,1112,92.67,Clear,Saturday,No,Low,0
+TRF-2005,Tech Park Bypass,Highway/Expressway,17.69,13.27,25.78,3186,41.17,Clear,Monday,Yes,Severe,0
+TRF-2006,Metro Ring Expressway,Highway/Expressway,31.39,18.83,28.64,1237,65.76,Heavy Rain,Thursday,No,High,0
+TRF-2007,West End Arterial,Arterial Road,15.74,15.74,17.64,968,53.54,Clear,Sunday,No,Low,0
+TRF-2008,Metro Ring Expressway,Highway/Expressway,30.82,18.49,40.98,2890,45.12,Rainy,Friday,Yes,Severe,0
+TRF-2009,Metro Ring Expressway,Highway/Expressway,30.5,18.3,29.71,1797,61.6,Clear,Wednesday,No,High,1
+TRF-2010,Airport Expressway,Highway/Expressway,27.12,18.08,18.75,1290,86.78,Clear,Thursday,No,Low,0
+TRF-2011,Central Business Loop,Downtown Local,8.23,14.11,25.96,1155,19.02,Clear,Tuesday,Yes,High,0
+TRF-2012,Tech Park Bypass,Highway/Expressway,17.57,13.18,20.64,1394,51.08,Heavy Rain,Saturday,No,High,0
+TRF-2013,University Avenue,Downtown Local,6.62,9.93,16.72,1072,23.76,Clear,Tuesday,Yes,High,0
+TRF-2014,Harbor Ring Road,Collector Road,10.03,13.37,14.19,549,42.41,Clear,Tuesday,No,Low,0
+TRF-2015,Airport Expressway,Highway/Expressway,25.7,17.13,17.98,1123,85.76,Clear,Tuesday,No,Low,0
+TRF-2016,West End Arterial,Arterial Road,15.08,15.08,20.79,936,43.52,Rainy,Thursday,No,Moderate,0
+TRF-2017,Metro Ring Expressway,Highway/Expressway,30.32,18.19,21.32,1758,85.33,Clear,Saturday,No,Low,0
+TRF-2018,University Avenue,Downtown Local,6.6,9.9,20.77,382,19.07,Clear,Tuesday,No,Severe,1
+TRF-2019,University Avenue,Downtown Local,6.79,10.19,11.17,486,36.47,Clear,Friday,No,Low,0
+TRF-2020,Harbor Ring Road,Collector Road,10.18,13.57,27.35,543,22.33,Clear,Thursday,No,Severe,1
+TRF-2021,Downtown Corridor (North-South),Arterial Road,12.85,15.42,30.57,1991,25.22,Clear,Tuesday,Yes,Severe,0
+TRF-2022,Tech Park Bypass,Highway/Expressway,18.57,13.93,16.41,1597,67.9,Clear,Friday,No,Low,0
+TRF-2023,Metro Ring Expressway,Highway/Expressway,31.42,18.85,19.68,1269,95.79,Clear,Saturday,No,Low,0
+TRF-2024,Harbor Ring Road,Collector Road,10.01,13.35,14.42,429,41.65,Clear,Sunday,No,Low,0
+TRF-2025,Tech Park Bypass,Highway/Expressway,17.93,13.45,15.53,1575,69.27,Clear,Wednesday,No,Low,0
+TRF-2026,Harbor Ring Road,Collector Road,9.82,13.09,24.1,1100,24.45,Clear,Saturday,Yes,High,0
+TRF-2027,Metro Ring Expressway,Highway/Expressway,32.96,19.78,55.36,3399,35.72,Clear,Thursday,Yes,Severe,1
+TRF-2028,University Avenue,Downtown Local,6.32,9.48,10.25,547,37,Clear,Friday,No,Low,0
+TRF-2029,Airport Expressway,Highway/Expressway,27.81,18.54,22.84,1721,73.06,Clear,Tuesday,No,Moderate,0
+TRF-2030,University Avenue,Downtown Local,6.52,9.78,15.88,587,24.63,Heavy Rain,Friday,No,High,0
+TRF-2031,West End Arterial,Arterial Road,15.6,15.6,27.25,856,34.35,Clear,Friday,No,High,1
+TRF-2032,Central Business Loop,Downtown Local,7.81,13.39,15.18,558,30.87,Clear,Saturday,No,Low,0
+TRF-2033,Central Business Loop,Downtown Local,8.44,14.47,28.78,462,17.6,Rainy,Monday,No,Severe,1
+TRF-2034,Metro Ring Expressway,Highway/Expressway,31.92,19.15,43.17,2993,44.36,Rainy,Saturday,Yes,Severe,0
+TRF-2035,University Avenue,Downtown Local,6.74,10.11,20.76,592,19.48,Clear,Wednesday,No,Severe,1
+TRF-2036,West End Arterial,Arterial Road,15.61,15.61,50.1,2108,18.69,Rainy,Sunday,Yes,Severe,1
+TRF-2037,University Avenue,Downtown Local,6.74,10.11,16.19,975,24.98,Clear,Friday,Yes,High,0
+TRF-2038,Metro Ring Expressway,Highway/Expressway,31.26,18.76,40.93,3069,45.82,Foggy,Friday,Yes,Severe,0
+TRF-2039,Airport Expressway,Highway/Expressway,27.96,18.64,23.98,1652,69.96,Foggy,Sunday,No,Moderate,0
+TRF-2040,Metro Ring Expressway,Highway/Expressway,32.63,19.58,36.36,1142,53.84,Rainy,Sunday,No,Severe,1
+TRF-2041,Downtown Corridor (North-South),Arterial Road,12.79,15.35,27.27,1764,28.14,Clear,Monday,Yes,High,0
+TRF-2042,Downtown Corridor (North-South),Arterial Road,12.75,15.3,32.03,2068,23.88,Clear,Sunday,Yes,Severe,0
+TRF-2043,Metro Ring Expressway,Highway/Expressway,32.97,19.78,22.06,1563,89.67,Clear,Monday,No,Low,0
+TRF-2044,Tech Park Bypass,Highway/Expressway,17.38,13.04,32.11,3327,32.48,Foggy,Saturday,Yes,Severe,0
+TRF-2045,Airport Expressway,Highway/Expressway,27.25,18.17,26,1616,62.88,Rainy,Sunday,No,Moderate,0
+TRF-2046,Airport Expressway,Highway/Expressway,26.91,17.94,19.17,1167,84.23,Clear,Thursday,No,Low,0
+TRF-2047,Downtown Corridor (North-South),Arterial Road,12.08,14.5,15.26,725,47.5,Clear,Wednesday,No,Low,0
+TRF-2048,Metro Ring Expressway,Highway/Expressway,31.89,19.13,19.65,1230,97.37,Clear,Monday,No,Low,0
+TRF-2049,Downtown Corridor (North-South),Arterial Road,12.98,15.58,19.97,896,39,Foggy,Wednesday,No,Moderate,0
+TRF-2050,West End Arterial,Arterial Road,15.95,15.95,41.13,2015,23.27,Rainy,Monday,Yes,Severe,0
+TRF-2051,Central Business Loop,Downtown Local,8.6,14.74,20.49,486,25.18,Rainy,Monday,No,Moderate,0
+TRF-2052,West End Arterial,Arterial Road,15.72,15.72,17.1,768,55.16,Clear,Sunday,No,Low,0
+TRF-2053,Harbor Ring Road,Collector Road,10.14,13.52,15.83,500,38.43,Clear,Wednesday,No,Low,0
+TRF-2054,West End Arterial,Arterial Road,14.97,14.97,16.12,671,55.72,Clear,Sunday,No,Low,0
+TRF-2055,Tech Park Bypass,Highway/Expressway,18.58,13.93,17.11,1502,65.15,Foggy,Thursday,No,Moderate,0
+TRF-2056,Downtown Corridor (North-South),Arterial Road,12.93,15.52,16.38,767,47.36,Clear,Wednesday,No,Low,0
+TRF-2057,Downtown Corridor (North-South),Arterial Road,12.12,14.54,24.54,1777,29.63,Clear,Monday,Yes,High,0
+TRF-2058,University Avenue,Downtown Local,6.62,9.93,23.05,1147,17.23,Rainy,Thursday,Yes,Severe,0
+TRF-2059,West End Arterial,Arterial Road,15.29,15.29,22.23,1091,41.27,Rainy,Friday,No,High,0
+TRF-2060,Harbor Ring Road,Collector Road,10.15,13.53,26.32,1152,23.14,Clear,Saturday,Yes,Severe,0
+TRF-2061,Metro Ring Expressway,Highway/Expressway,32.63,19.58,61.57,3188,31.8,Clear,Wednesday,Yes,Severe,2
+TRF-2062,Tech Park Bypass,Highway/Expressway,18.52,13.89,27.44,3227,40.5,Clear,Saturday,Yes,Severe,0
+TRF-2063,Harbor Ring Road,Collector Road,10.07,13.43,14.52,533,41.61,Clear,Monday,No,Low,0
+TRF-2064,Airport Expressway,Highway/Expressway,27.76,18.51,23.05,1797,72.26,Clear,Thursday,No,Moderate,0
+TRF-2065,Downtown Corridor (North-South),Arterial Road,12.16,14.59,42.49,1911,17.17,Clear,Sunday,Yes,Severe,2
+TRF-2066,Harbor Ring Road,Collector Road,9.85,13.13,13.42,370,44.04,Clear,Friday,No,Low,0
+TRF-2067,Downtown Corridor (North-South),Arterial Road,12.91,15.49,31.52,984,24.57,Clear,Monday,No,Severe,1
+TRF-2068,Harbor Ring Road,Collector Road,9.5,12.67,20.32,557,28.05,Heavy Rain,Saturday,No,High,0
+TRF-2069,Tech Park Bypass,Highway/Expressway,17.5,13.13,21.28,1541,49.34,Heavy Rain,Tuesday,No,High,0
+TRF-2070,University Avenue,Downtown Local,6.75,10.13,19.82,1159,20.43,Clear,Friday,Yes,Severe,0
+TRF-2071,Tech Park Bypass,Highway/Expressway,17.82,13.37,28.05,1521,38.12,Clear,Thursday,No,Severe,1
+TRF-2072,Metro Ring Expressway,Highway/Expressway,30.45,18.27,24.19,1407,75.53,Rainy,Friday,No,Moderate,0
+TRF-2073,Tech Park Bypass,Highway/Expressway,17.6,13.2,26.05,3196,40.54,Clear,Thursday,Yes,Severe,0
+TRF-2074,Metro Ring Expressway,Highway/Expressway,30.81,18.49,32.14,1695,57.52,Clear,Thursday,No,High,1
+TRF-2075,Metro Ring Expressway,Highway/Expressway,31.01,18.61,19.53,1199,95.27,Clear,Monday,No,Low,0
+TRF-2076,Harbor Ring Road,Collector Road,9.53,12.71,18.1,547,31.59,Rainy,Thursday,No,Moderate,0
+TRF-2077,Harbor Ring Road,Collector Road,10.04,13.39,15.1,400,39.89,Clear,Saturday,No,Low,0
+TRF-2078,Metro Ring Expressway,Highway/Expressway,30.9,18.54,44.8,3093,41.38,Rainy,Friday,Yes,Severe,0
+TRF-2079,Central Business Loop,Downtown Local,7.9,13.54,15.22,426,31.14,Clear,Thursday,No,Low,0
+TRF-2080,Airport Expressway,Highway/Expressway,27.5,18.33,19,1093,86.84,Clear,Friday,No,Low,0
+TRF-2081,University Avenue,Downtown Local,6.26,9.39,10.61,474,35.4,Clear,Thursday,No,Low,0
+TRF-2082,Central Business Loop,Downtown Local,8.07,13.83,42.77,562,11.32,Rainy,Thursday,No,Severe,2
+TRF-2083,West End Arterial,Arterial Road,16.01,16.01,17.23,759,55.75,Clear,Tuesday,No,Low,0
+TRF-2084,Downtown Corridor (North-South),Arterial Road,11.95,14.34,30.13,1041,23.8,Clear,Friday,No,Severe,1
+TRF-2085,Harbor Ring Road,Collector Road,10.11,13.48,36.28,1010,16.72,Clear,Tuesday,Yes,Severe,1
+TRF-2086,West End Arterial,Arterial Road,15.57,15.57,27.91,1794,33.47,Clear,Tuesday,Yes,High,0
+TRF-2087,Metro Ring Expressway,Highway/Expressway,32.13,19.28,51.98,3017,37.09,Heavy Rain,Friday,Yes,Severe,0
+TRF-2088,Central Business Loop,Downtown Local,8.37,14.35,25.56,1115,19.65,Clear,Sunday,Yes,High,0
+TRF-2089,Harbor Ring Road,Collector Road,9.77,13.03,22.59,555,25.95,Clear,Friday,No,High,1
+TRF-2090,Downtown Corridor (North-South),Arterial Road,12.58,15.1,34.85,1889,21.66,Clear,Sunday,Yes,Severe,1
+TRF-2091,West End Arterial,Arterial Road,15.27,15.27,32.19,2083,28.46,Clear,Wednesday,Yes,Severe,0
+TRF-2092,West End Arterial,Arterial Road,14.9,14.9,17.68,853,50.57,Foggy,Thursday,No,Moderate,0
+TRF-2093,West End Arterial,Arterial Road,16.34,16.34,25.47,669,38.49,Heavy Rain,Tuesday,No,High,0
+TRF-2094,Harbor Ring Road,Collector Road,10.2,13.6,15.94,593,38.39,Clear,Tuesday,No,Low,0
+TRF-2095,Metro Ring Expressway,Highway/Expressway,30.38,18.23,20.66,1454,88.23,Clear,Monday,No,Low,0
+TRF-2096,West End Arterial,Arterial Road,15.02,15.02,20.69,748,43.56,Rainy,Friday,No,Moderate,0
+TRF-2097,Tech Park Bypass,Highway/Expressway,19.01,14.26,22.32,1765,51.1,Rainy,Saturday,No,High,0
+TRF-2098,Metro Ring Expressway,Highway/Expressway,31.26,18.76,21.95,1726,85.45,Clear,Tuesday,No,Low,0
+TRF-2099,Airport Expressway,Highway/Expressway,27.9,18.6,21.94,1647,76.3,Clear,Thursday,No,Low,0
+TRF-2100,Tech Park Bypass,Highway/Expressway,18.59,13.94,25.98,1166,42.93,Clear,Wednesday,No,Severe,1
+TRF-2101,Harbor Ring Road,Collector Road,10.22,13.63,14.8,525,41.43,Clear,Saturday,No,Low,0
+TRF-2102,West End Arterial,Arterial Road,15.64,15.64,35.24,1805,26.63,Rainy,Saturday,Yes,Severe,0
+TRF-2103,Airport Expressway,Highway/Expressway,26.2,17.47,19.5,1464,80.62,Clear,Wednesday,No,Low,0
+TRF-2104,Airport Expressway,Highway/Expressway,25.6,17.07,20.7,1307,74.2,Foggy,Tuesday,No,Moderate,0
+TRF-2105,West End Arterial,Arterial Road,15,15,20.29,967,44.36,Rainy,Saturday,No,Moderate,0
+TRF-2106,Metro Ring Expressway,Highway/Expressway,32.86,19.72,44.66,3015,44.15,Rainy,Tuesday,Yes,Severe,0
+TRF-2107,Metro Ring Expressway,Highway/Expressway,31.76,19.06,50.89,3383,37.45,Rainy,Tuesday,Yes,Severe,0
+TRF-2108,Metro Ring Expressway,Highway/Expressway,32.75,19.65,39.78,3243,49.4,Clear,Thursday,Yes,Severe,0
+TRF-2109,Downtown Corridor (North-South),Arterial Road,12.05,14.46,33.11,1876,21.84,Rainy,Friday,Yes,Severe,0
+TRF-2110,Airport Expressway,Highway/Expressway,27.75,18.5,35.94,3173,46.33,Clear,Wednesday,Yes,Severe,0
+TRF-2111,Downtown Corridor (North-South),Arterial Road,12.02,14.42,16.18,697,44.57,Clear,Wednesday,No,Low,0
+TRF-2112,University Avenue,Downtown Local,6.48,9.72,12.7,391,30.61,Foggy,Sunday,No,Moderate,0
+TRF-2113,Downtown Corridor (North-South),Arterial Road,12.03,14.44,29.79,947,24.23,Clear,Friday,No,Severe,1
+TRF-2114,Tech Park Bypass,Highway/Expressway,18.2,13.65,14.24,1422,76.69,Clear,Sunday,No,Low,0
+TRF-2115,West End Arterial,Arterial Road,15.45,15.45,32.19,2026,28.8,Clear,Wednesday,Yes,Severe,0
+TRF-2116,Harbor Ring Road,Collector Road,9.36,12.48,18.94,369,29.65,Heavy Rain,Friday,No,High,0
+TRF-2117,Tech Park Bypass,Highway/Expressway,18.26,13.7,33.73,3168,32.48,Rainy,Thursday,Yes,Severe,0
+TRF-2118,West End Arterial,Arterial Road,15.88,15.88,48.42,1786,19.68,Clear,Friday,Yes,Severe,2
+TRF-2119,Harbor Ring Road,Collector Road,10.2,13.6,18.31,491,33.42,Rainy,Thursday,No,Moderate,0
+TRF-2120,Downtown Corridor (North-South),Arterial Road,12.67,15.2,16.3,942,46.64,Clear,Thursday,No,Low,0
+TRF-2121,University Avenue,Downtown Local,6.43,9.64,15.52,974,24.86,Clear,Wednesday,Yes,High,0
+TRF-2122,West End Arterial,Arterial Road,15.84,15.84,17.63,732,53.91,Clear,Monday,No,Low,0
+TRF-2123,University Avenue,Downtown Local,6.22,9.33,14.4,1012,25.92,Clear,Tuesday,Yes,High,0
+TRF-2124,Harbor Ring Road,Collector Road,9.81,13.08,23.67,1106,24.87,Clear,Saturday,Yes,High,0
+TRF-2125,West End Arterial,Arterial Road,15.21,15.21,16.33,988,55.88,Clear,Sunday,No,Low,0
+TRF-2126,West End Arterial,Arterial Road,15.96,15.96,19.12,1068,50.08,Clear,Monday,No,Moderate,0
+TRF-2127,Downtown Corridor (North-South),Arterial Road,11.84,14.21,21.56,738,32.95,Heavy Rain,Saturday,No,High,0
+TRF-2128,Metro Ring Expressway,Highway/Expressway,30,18,36.8,3272,48.91,Clear,Friday,Yes,Severe,0
+TRF-2129,Metro Ring Expressway,Highway/Expressway,29.97,17.98,25.65,1090,70.11,Clear,Thursday,No,Moderate,1
+TRF-2130,University Avenue,Downtown Local,6.31,9.46,9.64,562,39.27,Clear,Wednesday,No,Low,0
+TRF-2131,Harbor Ring Road,Collector Road,10.01,13.35,31.64,981,18.98,Clear,Sunday,Yes,Severe,1
+TRF-2132,Tech Park Bypass,Highway/Expressway,18.82,14.12,35.46,3247,31.84,Rainy,Tuesday,Yes,Severe,0
+TRF-2133,Harbor Ring Road,Collector Road,9.34,12.45,13.51,399,41.48,Clear,Friday,No,Low,0
+TRF-2134,University Avenue,Downtown Local,6.56,9.84,15.57,1019,25.28,Clear,Thursday,Yes,High,0
+TRF-2135,Central Business Loop,Downtown Local,8.4,14.4,28.75,1098,17.53,Foggy,Saturday,Yes,Severe,0
+TRF-2136,Central Business Loop,Downtown Local,7.85,13.46,25.52,1139,18.46,Clear,Wednesday,Yes,Severe,0
+TRF-2137,Tech Park Bypass,Highway/Expressway,17.96,13.47,14.84,1612,72.61,Clear,Saturday,No,Low,0
+TRF-2138,Airport Expressway,Highway/Expressway,25.6,17.07,26.58,1500,57.79,Clear,Sunday,No,High,1
+TRF-2139,Central Business Loop,Downtown Local,8.38,14.37,16.43,464,30.6,Clear,Monday,No,Low,0
+TRF-2140,Metro Ring Expressway,Highway/Expressway,31.12,18.67,26.45,1566,70.59,Rainy,Tuesday,No,Moderate,0
+TRF-2141,Downtown Corridor (North-South),Arterial Road,12.4,14.88,17.82,1089,41.75,Clear,Sunday,No,Moderate,0
+TRF-2142,Tech Park Bypass,Highway/Expressway,17.37,13.03,15.07,1433,69.16,Clear,Saturday,No,Low,0
+TRF-2143,West End Arterial,Arterial Road,14.92,14.92,16.72,1058,53.54,Clear,Sunday,No,Low,0
+TRF-2144,Harbor Ring Road,Collector Road,9.77,13.03,24.48,1140,23.95,Clear,Friday,Yes,Severe,0
+TRF-2145,Tech Park Bypass,Highway/Expressway,18.1,13.58,23.62,2921,45.98,Clear,Saturday,Yes,High,0
+TRF-2146,West End Arterial,Arterial Road,15.76,15.76,21,702,45.03,Rainy,Tuesday,No,Moderate,0
+TRF-2147,Harbor Ring Road,Collector Road,10.03,13.37,32.35,556,18.6,Rainy,Thursday,No,Severe,1
+TRF-2148,Tech Park Bypass,Highway/Expressway,18.96,14.22,16.08,1418,70.75,Clear,Wednesday,No,Low,0
+TRF-2149,Airport Expressway,Highway/Expressway,28.08,18.72,22.44,1732,75.08,Clear,Monday,No,Moderate,0
+TRF-2150,University Avenue,Downtown Local,6.48,9.72,19.82,1166,19.62,Clear,Monday,Yes,Severe,0
+TRF-2151,Downtown Corridor (North-South),Arterial Road,12.31,14.77,33.34,1803,22.15,Rainy,Friday,Yes,Severe,0
+TRF-2152,West End Arterial,Arterial Road,16.08,16.08,18.67,863,51.68,Clear,Wednesday,No,Low,0
+TRF-2153,Downtown Corridor (North-South),Arterial Road,12.6,15.12,30.36,2033,24.9,Clear,Wednesday,Yes,Severe,0
+TRF-2154,Downtown Corridor (North-South),Arterial Road,12.89,15.47,16.77,878,46.12,Clear,Saturday,No,Low,0
+TRF-2155,University Avenue,Downtown Local,6.63,9.95,14.39,489,27.64,Rainy,Saturday,No,Moderate,0
+TRF-2156,Tech Park Bypass,Highway/Expressway,18.56,13.92,14.39,1369,77.39,Clear,Monday,No,Low,0
+TRF-2157,Harbor Ring Road,Collector Road,9.96,13.28,44.85,1160,13.32,Clear,Tuesday,Yes,Severe,2
+TRF-2158,Downtown Corridor (North-South),Arterial Road,11.98,14.38,25.05,845,28.69,Clear,Sunday,No,High,1
+TRF-2159,Tech Park Bypass,Highway/Expressway,18,13.5,13.33,1163,81.02,Clear,Sunday,No,Low,0
+TRF-2160,Airport Expressway,Highway/Expressway,27.65,18.43,18.88,1184,87.87,Clear,Monday,No,Low,0
+TRF-2161,Metro Ring Expressway,Highway/Expressway,31.74,19.04,19.39,1104,98.22,Clear,Monday,No,Low,0
+TRF-2162,Airport Expressway,Highway/Expressway,25.48,16.99,42.9,1466,35.64,Clear,Friday,No,Severe,2
+TRF-2163,Tech Park Bypass,Highway/Expressway,18.79,14.09,32.16,3503,35.06,Clear,Monday,Yes,Severe,0
+TRF-2164,Airport Expressway,Highway/Expressway,26.65,17.77,18.09,1097,88.39,Clear,Monday,No,Low,0
+TRF-2165,West End Arterial,Arterial Road,15.32,15.32,16.34,836,56.25,Clear,Saturday,No,Low,0
+TRF-2166,Downtown Corridor (North-South),Arterial Road,11.8,14.16,14.88,848,47.58,Clear,Friday,No,Low,0
+TRF-2167,Metro Ring Expressway,Highway/Expressway,31.19,18.71,38.52,1431,48.58,Rainy,Wednesday,No,Severe,1
+TRF-2168,Harbor Ring Road,Collector Road,10.22,13.63,17.4,370,35.24,Rainy,Thursday,No,Moderate,0
+TRF-2169,West End Arterial,Arterial Road,14.88,14.88,17.93,960,49.79,Clear,Tuesday,No,Moderate,0
+TRF-2170,West End Arterial,Arterial Road,16.03,16.03,22.28,958,43.17,Rainy,Wednesday,No,Moderate,0
+TRF-2171,Airport Expressway,Highway/Expressway,27,18,19.72,1296,82.15,Clear,Sunday,No,Low,0
+TRF-2172,Harbor Ring Road,Collector Road,9.89,13.19,13.34,361,44.48,Clear,Monday,No,Low,0
+TRF-2173,Airport Expressway,Highway/Expressway,26.81,17.87,45.73,3432,35.18,Foggy,Thursday,Yes,Severe,0
+TRF-2174,University Avenue,Downtown Local,6.8,10.2,19.38,539,21.05,Clear,Thursday,No,Severe,1
+TRF-2175,Central Business Loop,Downtown Local,8.22,14.09,18.06,400,27.31,Rainy,Friday,No,Moderate,0
+TRF-2176,Harbor Ring Road,Collector Road,9.63,12.84,14,366,41.27,Clear,Monday,No,Low,0
+TRF-2177,Airport Expressway,Highway/Expressway,25.91,17.27,19.26,1143,80.72,Clear,Thursday,No,Low,0
+TRF-2178,Airport Expressway,Highway/Expressway,26.15,17.43,17.55,1133,89.4,Clear,Monday,No,Low,0
+TRF-2179,University Avenue,Downtown Local,6.3,9.45,10.43,492,36.24,Clear,Friday,No,Low,0
+TRF-2180,Harbor Ring Road,Collector Road,10.06,13.41,14.86,451,40.62,Clear,Friday,No,Low,0
+TRF-2181,West End Arterial,Arterial Road,15.44,15.44,41.83,2081,22.15,Rainy,Monday,Yes,Severe,0
+TRF-2182,Harbor Ring Road,Collector Road,9.56,12.75,16.82,449,34.1,Rainy,Sunday,No,Moderate,0
+TRF-2183,Central Business Loop,Downtown Local,8.61,14.76,27.1,378,19.06,Foggy,Wednesday,No,High,1
+TRF-2184,Downtown Corridor (North-South),Arterial Road,12.92,15.5,23.74,719,32.65,Clear,Wednesday,No,High,1
+TRF-2185,Tech Park Bypass,Highway/Expressway,18.79,14.09,16.84,1562,66.95,Clear,Saturday,No,Moderate,0
+TRF-2186,Harbor Ring Road,Collector Road,9.82,13.09,23.61,414,24.96,Clear,Tuesday,No,High,1
+TRF-2187,Airport Expressway,Highway/Expressway,27.74,18.49,21.39,1739,77.81,Clear,Saturday,No,Low,0
+TRF-2188,West End Arterial,Arterial Road,15.86,15.86,18.92,1057,50.3,Clear,Friday,No,Moderate,0
+TRF-2189,Metro Ring Expressway,Highway/Expressway,33.01,19.81,21.19,1229,93.47,Clear,Wednesday,No,Low,0
+TRF-2190,Harbor Ring Road,Collector Road,9.94,13.25,14.55,411,40.99,Clear,Saturday,No,Low,0
+TRF-2191,University Avenue,Downtown Local,6.78,10.17,23.27,396,17.48,Foggy,Wednesday,No,Severe,1
+TRF-2192,Central Business Loop,Downtown Local,8.43,14.45,15.54,379,32.55,Clear,Sunday,No,Low,0
+TRF-2193,Harbor Ring Road,Collector Road,9.44,12.59,27.31,1034,20.74,Rainy,Monday,Yes,Severe,0
+TRF-2194,Metro Ring Expressway,Highway/Expressway,30.58,18.35,22.59,1742,81.22,Clear,Wednesday,No,Moderate,0
+TRF-2195,Downtown Corridor (North-South),Arterial Road,11.99,14.39,26.96,1851,26.68,Clear,Friday,Yes,Severe,0
+TRF-2196,Airport Expressway,Highway/Expressway,27.32,18.21,25.93,1358,63.22,Rainy,Monday,No,Moderate,0
+TRF-2197,Airport Expressway,Highway/Expressway,26.6,17.73,18.44,1223,86.55,Clear,Friday,No,Low,0
+TRF-2198,Central Business Loop,Downtown Local,7.85,13.46,23.73,365,19.85,Clear,Wednesday,No,High,1
+TRF-2199,Central Business Loop,Downtown Local,8.24,14.13,24.9,1044,19.86,Clear,Saturday,Yes,High,0
+TRF-2200,Airport Expressway,Highway/Expressway,25.47,16.98,23.51,1615,65,Rainy,Tuesday,No,Moderate,0
